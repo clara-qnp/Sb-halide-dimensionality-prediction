@@ -291,8 +291,7 @@ reasons outside this code's control:
   (`gpt-4.1-2025-04-14`, `gpt-5.1-2025-11-13`, `gpt-5.5-2026-04-23`); the other
   two (`gpt-5.6-sol`, `gpt-6-astra`) are undated aliases, so OpenAI may change
   which underlying model they resolve to over time.
-- Except for `gpt-4.1` (whose prediction is read off the full output-token
-  probability distribution rather than a single sampled draw), these are
+- Except for `gpt-4.1`, these are
   reasoning models, whose outputs are not guaranteed to be bit-for-bit
   reproducible across calls even on an unchanged snapshot with identical
   prompts.

@@ -23,15 +23,23 @@ data/*
 # Generated results
 results_ml/
 results_llm/
+# Publish the reference LLM results Figure 3 is built from; everything else
+# generated under results_llm/ (raw per-call predictions, checkpoints) stays ignored.
+!results_llm/
+results_llm/*
+!results_llm/llm_results.csv
 results/
 results_with_data/
 comparison/
 figures/
-# Keep Figure 2's reproducibility code while continuing to ignore generated figures.
+# Keep Figure 2's reproducibility code and Figure 3's reference image while
+# continuing to ignore generated figures.
 !figures/
 figures/*
 !figures/figrue_2/
 !figures/figrue_2/**
+!figures/figure_3/
+!figures/figure_3/**
 models_fulldata/
 *_checkpoint.csv
 raw_llm_responses.jsonl

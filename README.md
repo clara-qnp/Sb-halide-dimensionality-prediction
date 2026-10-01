@@ -242,3 +242,57 @@ python figures/figrue_2/make_figure_2.py \
 
 Both the combined figure (`figure_2.png`/`.pdf`) and the individual panels are
 written to `figures/figrue_2/output/`.
+
+### Figure 3: LLM performance across prompting conditions and cation representations
+
+Figure 3 shows test macro-F1 for five LLMs under zero-shot, 12-shot, and
+all-shot prompting, using either IUPAC cation names or SMILES as input, against
+a dashed best-ML reference line. `figures/figure_3/figure_3_reference.png`
+shows the expected result, so you can compare it against your own output.
+
+Figure 3 is built from LLM evaluation results, which are expensive to
+regenerate (live API calls, billed per token) and not guaranteed to reproduce
+exactly on a rerun (see caveats below), so `results_llm/llm_results.csv` is
+committed as the reference data behind the published figure.
+
+To generate Figure 3 from that reference data:
+
+```bash
+python -m evaluation.plot_llm_results
+```
+
+This writes several bar-chart variants to `figures/`; the one that is Figure 3
+is `figures/llm_results_by_representation_final.png`. The others are
+alternative/diagnostic views of the same results, not used in the manuscript.
+
+#### Regenerating the LLM evaluation results (optional)
+
+Only do this if you want to re-run the LLM evaluation yourself rather than use
+the committed reference results. It requires an OpenAI API key with access to
+the five evaluated models:
+
+```bash
+export OPENAI_API_KEY="sk-..."
+python -m llm_prediction.evaluate_llms \
+  --data data/prepared_data.xlsx \
+  --out results_llm
+```
+
+Then point `plot_llm_results` at the new output:
+
+```bash
+python -m evaluation.plot_llm_results --llm-results results_llm/llm_results.csv
+```
+
+A rerun is not guaranteed to reproduce the published numbers exactly, for
+reasons outside this code's control:
+
+- Three of the five models are pinned to a dated snapshot
+  (`gpt-4.1-2025-04-14`, `gpt-5.1-2025-11-13`, `gpt-5.5-2026-04-23`); the other
+  two (`gpt-5.6-sol`, `gpt-6-astra`) are undated aliases, so OpenAI may change
+  which underlying model they resolve to over time.
+- Except for `gpt-4.1` (whose prediction is read off the full output-token
+  probability distribution rather than a single sampled draw), these are
+  reasoning models, whose outputs are not guaranteed to be bit-for-bit
+  reproducible across calls even on an unchanged snapshot with identical
+  prompts.

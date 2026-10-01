@@ -1,4 +1,4 @@
-"""protocol definition for the Stage 2 fixed-category experiment."""
+"""Protocol definition for the fixed-category LLM feature-importance experiment."""
 
 from __future__ import annotations
 
@@ -182,7 +182,7 @@ def build_prompt(
     if condition == "no_data":
         if dataset_block is not None or dataset_n_examples != 0:
             raise ValueError("no_data prompt cannot include a dataset block")
-        # Preserve the original Stage 2 no-data prompt byte for byte.
+        # Preserve the original no-data prompt byte for byte.
         return PROMPT_PREFIX + feature_text + PROMPT_SUFFIX
     if condition == "with_data":
         if dataset_n_examples != 321 or not dataset_block:

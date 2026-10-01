@@ -1,4 +1,4 @@
-"""Collect matched no-data/with-data trial pairs for the Stage 2 experiment."""
+"""Collect matched no-data/with-data trial pairs for the paired feature-importance experiment."""
 
 from __future__ import annotations
 
@@ -10,14 +10,14 @@ from pathlib import Path
 
 from openai import OpenAI
 
-from llm_feature_importance.stage2_collect import (
+from llm_feature_importance.collect import (
     JsonlLogger,
     collect_one,
     load_records,
     verify_existing_records,
     write_manifest,
 )
-from llm_feature_importance.stage2_config import (
+from llm_feature_importance.config import (
     DEFAULT_OUTPUT_DIR,
     DEFAULT_WITH_DATA_OUTPUT_DIR,
     MODELS,
@@ -25,7 +25,7 @@ from llm_feature_importance.stage2_config import (
     protocol_sha256,
     write_protocol_files,
 )
-from llm_feature_importance.stage2_dataset import (
+from llm_feature_importance.dataset import (
     DEFAULT_DATA_PATH,
     DatasetContext,
     build_dataset_contexts,
@@ -196,7 +196,7 @@ def main() -> None:
     }
     missing_calls = sum(len(requested[c] - complete[c]) for c in CONDITIONS)
     print(
-        f"Paired Stage 2: {len(jobs)} trial pairs, {missing_calls} API calls remaining; "
+        f"Paired collection: {len(jobs)} trial pairs, {missing_calls} API calls remaining; "
         f"within-pair order alternates by trial."
     )
     if not jobs:

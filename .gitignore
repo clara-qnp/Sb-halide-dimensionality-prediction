@@ -30,16 +30,26 @@ results_llm/*
 !results_llm/llm_results.csv
 results/
 results_with_data/
+# Publish the reference LLM feature-importance results Figure 4 panel (b) is built from;
+# everything else under this results_with_data/ (raw responses, generated figures) stays ignored.
+!llm_feature_importance/results_with_data/
+llm_feature_importance/results_with_data/*
+!llm_feature_importance/results_with_data/model_feature_importance.csv
+!llm_feature_importance/results_with_data/model_stability_kendall.csv
+!llm_feature_importance/results_with_data/intermodel_kendall.csv
+!llm_feature_importance/results_with_data/rankings_long.csv
 comparison/
 figures/
-# Keep Figure 2's reproducibility code and Figure 3's reference image while
-# continuing to ignore generated figures.
+# Keep Figure 2/3/4's reproducibility code and reference images while continuing to
+# ignore generated figures.
 !figures/
 figures/*
 !figures/figrue_2/
 !figures/figrue_2/**
 !figures/figure_3/
 !figures/figure_3/**
+!figures/figure_4/
+!figures/figure_4/**
 models_fulldata/
 *_checkpoint.csv
 raw_llm_responses.jsonl

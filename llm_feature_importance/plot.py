@@ -1,4 +1,4 @@
-"""Create the four Stage 2 feature-importance figures from analyzed CSV files."""
+"""Create the four feature-importance figures from analyzed CSV files."""
 
 from __future__ import annotations
 
@@ -13,7 +13,7 @@ import numpy as np
 import pandas as pd
 from matplotlib.colors import LinearSegmentedColormap
 
-from llm_feature_importance.stage2_config import (
+from llm_feature_importance.config import (
     DEFAULT_OUTPUT_DIR,
     FEATURE_IDS,
     FIGURE_FEATURE_LABELS,

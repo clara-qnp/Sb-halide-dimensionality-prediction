@@ -1,4 +1,4 @@
-"""Collect the 120 valid fixed-category LLM rankings defined by the Stage 2 protocol."""
+"""Collect the 120 valid fixed-category LLM rankings defined by the experiment protocol."""
 
 from __future__ import annotations
 
@@ -14,7 +14,7 @@ from typing import Any
 
 from openai import OpenAI
 
-from llm_feature_importance.stage2_config import (
+from llm_feature_importance.config import (
     CONDITIONS,
     DEFAULT_OUTPUT_DIR,
     DEFAULT_WITH_DATA_OUTPUT_DIR,
@@ -29,7 +29,7 @@ from llm_feature_importance.stage2_config import (
     protocol_sha256,
     write_protocol_files,
 )
-from llm_feature_importance.stage2_dataset import (
+from llm_feature_importance.dataset import (
     DEFAULT_DATA_PATH,
     DatasetContext,
     build_dataset_contexts,
@@ -380,7 +380,7 @@ def main() -> None:
         for trial_id in selected_trials
     }
     expected = len(requested_keys)
-    print(f"Stage 2 protocol {protocol_hash[:12]}: {expected-len(complete & requested_keys)}/{expected} rankings to collect")
+    print(f"Protocol {protocol_hash[:12]}: {expected-len(complete & requested_keys)}/{expected} rankings to collect")
     if not jobs:
         print("All requested model/trial rankings are already complete.")
         return

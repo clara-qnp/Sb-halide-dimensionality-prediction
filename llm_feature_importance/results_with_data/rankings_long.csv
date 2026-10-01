@@ -1,0 +1,841 @@
+model,model_id,trial,feature_id,feature_name,rank,borda_score,presentation_position
+GPT-5.1,gpt-5.1-2025-11-13,1,F1,Halide:Sb ratio,2,0.8333333333333334,6
+GPT-5.1,gpt-5.1-2025-11-13,1,F2,Sb oxidation state,5,0.3333333333333333,3
+GPT-5.1,gpt-5.1-2025-11-13,1,F3,Halide composition,1,1.0,4
+GPT-5.1,gpt-5.1-2025-11-13,1,F4,Organic cation molecular structure,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,1,F5,Organic cation size / steric bulk,3,0.6666666666666666,7
+GPT-5.1,gpt-5.1-2025-11-13,1,F6,Organic cation charge / protonation state,7,0.0,2
+GPT-5.1,gpt-5.1-2025-11-13,1,F7,Water content,6,0.16666666666666666,5
+GPT-5.1,gpt-5.1-2025-11-13,2,F1,Halide:Sb ratio,2,0.8333333333333334,1
+GPT-5.1,gpt-5.1-2025-11-13,2,F2,Sb oxidation state,1,1.0,4
+GPT-5.1,gpt-5.1-2025-11-13,2,F3,Halide composition,5,0.3333333333333333,3
+GPT-5.1,gpt-5.1-2025-11-13,2,F4,Organic cation molecular structure,4,0.5,7
+GPT-5.1,gpt-5.1-2025-11-13,2,F5,Organic cation size / steric bulk,3,0.6666666666666666,2
+GPT-5.1,gpt-5.1-2025-11-13,2,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-5.1,gpt-5.1-2025-11-13,2,F7,Water content,7,0.0,6
+GPT-5.1,gpt-5.1-2025-11-13,3,F1,Halide:Sb ratio,2,0.8333333333333334,7
+GPT-5.1,gpt-5.1-2025-11-13,3,F2,Sb oxidation state,1,1.0,6
+GPT-5.1,gpt-5.1-2025-11-13,3,F3,Halide composition,3,0.6666666666666666,5
+GPT-5.1,gpt-5.1-2025-11-13,3,F4,Organic cation molecular structure,5,0.3333333333333333,2
+GPT-5.1,gpt-5.1-2025-11-13,3,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,3,F6,Organic cation charge / protonation state,7,0.0,3
+GPT-5.1,gpt-5.1-2025-11-13,3,F7,Water content,6,0.16666666666666666,4
+GPT-5.1,gpt-5.1-2025-11-13,4,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.1,gpt-5.1-2025-11-13,4,F2,Sb oxidation state,6,0.16666666666666666,4
+GPT-5.1,gpt-5.1-2025-11-13,4,F3,Halide composition,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,4,F4,Organic cation molecular structure,3,0.6666666666666666,2
+GPT-5.1,gpt-5.1-2025-11-13,4,F5,Organic cation size / steric bulk,2,0.8333333333333334,5
+GPT-5.1,gpt-5.1-2025-11-13,4,F6,Organic cation charge / protonation state,5,0.3333333333333333,7
+GPT-5.1,gpt-5.1-2025-11-13,4,F7,Water content,7,0.0,3
+GPT-5.1,gpt-5.1-2025-11-13,5,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.1,gpt-5.1-2025-11-13,5,F2,Sb oxidation state,5,0.3333333333333333,3
+GPT-5.1,gpt-5.1-2025-11-13,5,F3,Halide composition,3,0.6666666666666666,2
+GPT-5.1,gpt-5.1-2025-11-13,5,F4,Organic cation molecular structure,4,0.5,7
+GPT-5.1,gpt-5.1-2025-11-13,5,F5,Organic cation size / steric bulk,2,0.8333333333333334,5
+GPT-5.1,gpt-5.1-2025-11-13,5,F6,Organic cation charge / protonation state,7,0.0,1
+GPT-5.1,gpt-5.1-2025-11-13,5,F7,Water content,6,0.16666666666666666,4
+GPT-5.1,gpt-5.1-2025-11-13,6,F1,Halide:Sb ratio,1,1.0,7
+GPT-5.1,gpt-5.1-2025-11-13,6,F2,Sb oxidation state,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,6,F3,Halide composition,2,0.8333333333333334,2
+GPT-5.1,gpt-5.1-2025-11-13,6,F4,Organic cation molecular structure,5,0.3333333333333333,3
+GPT-5.1,gpt-5.1-2025-11-13,6,F5,Organic cation size / steric bulk,3,0.6666666666666666,5
+GPT-5.1,gpt-5.1-2025-11-13,6,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.1,gpt-5.1-2025-11-13,6,F7,Water content,7,0.0,6
+GPT-5.1,gpt-5.1-2025-11-13,7,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.1,gpt-5.1-2025-11-13,7,F2,Sb oxidation state,5,0.3333333333333333,7
+GPT-5.1,gpt-5.1-2025-11-13,7,F3,Halide composition,4,0.5,2
+GPT-5.1,gpt-5.1-2025-11-13,7,F4,Organic cation molecular structure,2,0.8333333333333334,1
+GPT-5.1,gpt-5.1-2025-11-13,7,F5,Organic cation size / steric bulk,3,0.6666666666666666,4
+GPT-5.1,gpt-5.1-2025-11-13,7,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-5.1,gpt-5.1-2025-11-13,7,F7,Water content,7,0.0,5
+GPT-5.1,gpt-5.1-2025-11-13,8,F1,Halide:Sb ratio,1,1.0,7
+GPT-5.1,gpt-5.1-2025-11-13,8,F2,Sb oxidation state,3,0.6666666666666666,2
+GPT-5.1,gpt-5.1-2025-11-13,8,F3,Halide composition,2,0.8333333333333334,1
+GPT-5.1,gpt-5.1-2025-11-13,8,F4,Organic cation molecular structure,5,0.3333333333333333,5
+GPT-5.1,gpt-5.1-2025-11-13,8,F5,Organic cation size / steric bulk,4,0.5,3
+GPT-5.1,gpt-5.1-2025-11-13,8,F6,Organic cation charge / protonation state,7,0.0,4
+GPT-5.1,gpt-5.1-2025-11-13,8,F7,Water content,6,0.16666666666666666,6
+GPT-5.1,gpt-5.1-2025-11-13,9,F1,Halide:Sb ratio,1,1.0,2
+GPT-5.1,gpt-5.1-2025-11-13,9,F2,Sb oxidation state,2,0.8333333333333334,7
+GPT-5.1,gpt-5.1-2025-11-13,9,F3,Halide composition,5,0.3333333333333333,4
+GPT-5.1,gpt-5.1-2025-11-13,9,F4,Organic cation molecular structure,3,0.6666666666666666,3
+GPT-5.1,gpt-5.1-2025-11-13,9,F5,Organic cation size / steric bulk,4,0.5,6
+GPT-5.1,gpt-5.1-2025-11-13,9,F6,Organic cation charge / protonation state,7,0.0,5
+GPT-5.1,gpt-5.1-2025-11-13,9,F7,Water content,6,0.16666666666666666,1
+GPT-5.1,gpt-5.1-2025-11-13,10,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.1,gpt-5.1-2025-11-13,10,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-5.1,gpt-5.1-2025-11-13,10,F3,Halide composition,3,0.6666666666666666,2
+GPT-5.1,gpt-5.1-2025-11-13,10,F4,Organic cation molecular structure,5,0.3333333333333333,7
+GPT-5.1,gpt-5.1-2025-11-13,10,F5,Organic cation size / steric bulk,4,0.5,5
+GPT-5.1,gpt-5.1-2025-11-13,10,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.1,gpt-5.1-2025-11-13,10,F7,Water content,7,0.0,1
+GPT-5.1,gpt-5.1-2025-11-13,11,F1,Halide:Sb ratio,2,0.8333333333333334,5
+GPT-5.1,gpt-5.1-2025-11-13,11,F2,Sb oxidation state,1,1.0,3
+GPT-5.1,gpt-5.1-2025-11-13,11,F3,Halide composition,3,0.6666666666666666,6
+GPT-5.1,gpt-5.1-2025-11-13,11,F4,Organic cation molecular structure,5,0.3333333333333333,4
+GPT-5.1,gpt-5.1-2025-11-13,11,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,11,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-5.1,gpt-5.1-2025-11-13,11,F7,Water content,7,0.0,7
+GPT-5.1,gpt-5.1-2025-11-13,12,F1,Halide:Sb ratio,1,1.0,1
+GPT-5.1,gpt-5.1-2025-11-13,12,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-5.1,gpt-5.1-2025-11-13,12,F3,Halide composition,3,0.6666666666666666,6
+GPT-5.1,gpt-5.1-2025-11-13,12,F4,Organic cation molecular structure,4,0.5,5
+GPT-5.1,gpt-5.1-2025-11-13,12,F5,Organic cation size / steric bulk,5,0.3333333333333333,4
+GPT-5.1,gpt-5.1-2025-11-13,12,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-5.1,gpt-5.1-2025-11-13,12,F7,Water content,7,0.0,3
+GPT-5.1,gpt-5.1-2025-11-13,13,F1,Halide:Sb ratio,5,0.3333333333333333,4
+GPT-5.1,gpt-5.1-2025-11-13,13,F2,Sb oxidation state,3,0.6666666666666666,6
+GPT-5.1,gpt-5.1-2025-11-13,13,F3,Halide composition,2,0.8333333333333334,5
+GPT-5.1,gpt-5.1-2025-11-13,13,F4,Organic cation molecular structure,1,1.0,2
+GPT-5.1,gpt-5.1-2025-11-13,13,F5,Organic cation size / steric bulk,6,0.16666666666666666,7
+GPT-5.1,gpt-5.1-2025-11-13,13,F6,Organic cation charge / protonation state,7,0.0,3
+GPT-5.1,gpt-5.1-2025-11-13,13,F7,Water content,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,14,F1,Halide:Sb ratio,5,0.3333333333333333,7
+GPT-5.1,gpt-5.1-2025-11-13,14,F2,Sb oxidation state,1,1.0,4
+GPT-5.1,gpt-5.1-2025-11-13,14,F3,Halide composition,3,0.6666666666666666,6
+GPT-5.1,gpt-5.1-2025-11-13,14,F4,Organic cation molecular structure,4,0.5,2
+GPT-5.1,gpt-5.1-2025-11-13,14,F5,Organic cation size / steric bulk,2,0.8333333333333334,3
+GPT-5.1,gpt-5.1-2025-11-13,14,F6,Organic cation charge / protonation state,6,0.16666666666666666,1
+GPT-5.1,gpt-5.1-2025-11-13,14,F7,Water content,7,0.0,5
+GPT-5.1,gpt-5.1-2025-11-13,15,F1,Halide:Sb ratio,3,0.6666666666666666,3
+GPT-5.1,gpt-5.1-2025-11-13,15,F2,Sb oxidation state,1,1.0,2
+GPT-5.1,gpt-5.1-2025-11-13,15,F3,Halide composition,6,0.16666666666666666,5
+GPT-5.1,gpt-5.1-2025-11-13,15,F4,Organic cation molecular structure,4,0.5,6
+GPT-5.1,gpt-5.1-2025-11-13,15,F5,Organic cation size / steric bulk,2,0.8333333333333334,1
+GPT-5.1,gpt-5.1-2025-11-13,15,F6,Organic cation charge / protonation state,7,0.0,7
+GPT-5.1,gpt-5.1-2025-11-13,15,F7,Water content,5,0.3333333333333333,4
+GPT-5.1,gpt-5.1-2025-11-13,16,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.1,gpt-5.1-2025-11-13,16,F2,Sb oxidation state,5,0.3333333333333333,2
+GPT-5.1,gpt-5.1-2025-11-13,16,F3,Halide composition,2,0.8333333333333334,7
+GPT-5.1,gpt-5.1-2025-11-13,16,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-5.1,gpt-5.1-2025-11-13,16,F5,Organic cation size / steric bulk,4,0.5,6
+GPT-5.1,gpt-5.1-2025-11-13,16,F6,Organic cation charge / protonation state,7,0.0,5
+GPT-5.1,gpt-5.1-2025-11-13,16,F7,Water content,6,0.16666666666666666,3
+GPT-5.1,gpt-5.1-2025-11-13,17,F1,Halide:Sb ratio,2,0.8333333333333334,5
+GPT-5.1,gpt-5.1-2025-11-13,17,F2,Sb oxidation state,1,1.0,2
+GPT-5.1,gpt-5.1-2025-11-13,17,F3,Halide composition,5,0.3333333333333333,6
+GPT-5.1,gpt-5.1-2025-11-13,17,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-5.1,gpt-5.1-2025-11-13,17,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,17,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.1,gpt-5.1-2025-11-13,17,F7,Water content,7,0.0,7
+GPT-5.1,gpt-5.1-2025-11-13,18,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.1,gpt-5.1-2025-11-13,18,F2,Sb oxidation state,3,0.6666666666666666,5
+GPT-5.1,gpt-5.1-2025-11-13,18,F3,Halide composition,4,0.5,3
+GPT-5.1,gpt-5.1-2025-11-13,18,F4,Organic cation molecular structure,2,0.8333333333333334,7
+GPT-5.1,gpt-5.1-2025-11-13,18,F5,Organic cation size / steric bulk,5,0.3333333333333333,2
+GPT-5.1,gpt-5.1-2025-11-13,18,F6,Organic cation charge / protonation state,7,0.0,6
+GPT-5.1,gpt-5.1-2025-11-13,18,F7,Water content,6,0.16666666666666666,1
+GPT-5.1,gpt-5.1-2025-11-13,19,F1,Halide:Sb ratio,2,0.8333333333333334,3
+GPT-5.1,gpt-5.1-2025-11-13,19,F2,Sb oxidation state,1,1.0,6
+GPT-5.1,gpt-5.1-2025-11-13,19,F3,Halide composition,3,0.6666666666666666,7
+GPT-5.1,gpt-5.1-2025-11-13,19,F4,Organic cation molecular structure,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,19,F5,Organic cation size / steric bulk,5,0.3333333333333333,2
+GPT-5.1,gpt-5.1-2025-11-13,19,F6,Organic cation charge / protonation state,7,0.0,5
+GPT-5.1,gpt-5.1-2025-11-13,19,F7,Water content,6,0.16666666666666666,4
+GPT-5.1,gpt-5.1-2025-11-13,20,F1,Halide:Sb ratio,1,1.0,5
+GPT-5.1,gpt-5.1-2025-11-13,20,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-5.1,gpt-5.1-2025-11-13,20,F3,Halide composition,3,0.6666666666666666,7
+GPT-5.1,gpt-5.1-2025-11-13,20,F4,Organic cation molecular structure,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,20,F5,Organic cation size / steric bulk,5,0.3333333333333333,6
+GPT-5.1,gpt-5.1-2025-11-13,20,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.1,gpt-5.1-2025-11-13,20,F7,Water content,7,0.0,2
+GPT-5.1,gpt-5.1-2025-11-13,21,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.1,gpt-5.1-2025-11-13,21,F2,Sb oxidation state,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,21,F3,Halide composition,5,0.3333333333333333,2
+GPT-5.1,gpt-5.1-2025-11-13,21,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-5.1,gpt-5.1-2025-11-13,21,F5,Organic cation size / steric bulk,2,0.8333333333333334,3
+GPT-5.1,gpt-5.1-2025-11-13,21,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-5.1,gpt-5.1-2025-11-13,21,F7,Water content,7,0.0,6
+GPT-5.1,gpt-5.1-2025-11-13,22,F1,Halide:Sb ratio,5,0.3333333333333333,5
+GPT-5.1,gpt-5.1-2025-11-13,22,F2,Sb oxidation state,3,0.6666666666666666,1
+GPT-5.1,gpt-5.1-2025-11-13,22,F3,Halide composition,4,0.5,4
+GPT-5.1,gpt-5.1-2025-11-13,22,F4,Organic cation molecular structure,1,1.0,3
+GPT-5.1,gpt-5.1-2025-11-13,22,F5,Organic cation size / steric bulk,2,0.8333333333333334,7
+GPT-5.1,gpt-5.1-2025-11-13,22,F6,Organic cation charge / protonation state,7,0.0,2
+GPT-5.1,gpt-5.1-2025-11-13,22,F7,Water content,6,0.16666666666666666,6
+GPT-5.1,gpt-5.1-2025-11-13,23,F1,Halide:Sb ratio,3,0.6666666666666666,2
+GPT-5.1,gpt-5.1-2025-11-13,23,F2,Sb oxidation state,4,0.5,5
+GPT-5.1,gpt-5.1-2025-11-13,23,F3,Halide composition,2,0.8333333333333334,1
+GPT-5.1,gpt-5.1-2025-11-13,23,F4,Organic cation molecular structure,1,1.0,4
+GPT-5.1,gpt-5.1-2025-11-13,23,F5,Organic cation size / steric bulk,5,0.3333333333333333,6
+GPT-5.1,gpt-5.1-2025-11-13,23,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.1,gpt-5.1-2025-11-13,23,F7,Water content,7,0.0,7
+GPT-5.1,gpt-5.1-2025-11-13,24,F1,Halide:Sb ratio,3,0.6666666666666666,1
+GPT-5.1,gpt-5.1-2025-11-13,24,F2,Sb oxidation state,1,1.0,5
+GPT-5.1,gpt-5.1-2025-11-13,24,F3,Halide composition,2,0.8333333333333334,7
+GPT-5.1,gpt-5.1-2025-11-13,24,F4,Organic cation molecular structure,4,0.5,6
+GPT-5.1,gpt-5.1-2025-11-13,24,F5,Organic cation size / steric bulk,6,0.16666666666666666,3
+GPT-5.1,gpt-5.1-2025-11-13,24,F6,Organic cation charge / protonation state,7,0.0,2
+GPT-5.1,gpt-5.1-2025-11-13,24,F7,Water content,5,0.3333333333333333,4
+GPT-5.1,gpt-5.1-2025-11-13,25,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.1,gpt-5.1-2025-11-13,25,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-5.1,gpt-5.1-2025-11-13,25,F3,Halide composition,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,25,F4,Organic cation molecular structure,5,0.3333333333333333,6
+GPT-5.1,gpt-5.1-2025-11-13,25,F5,Organic cation size / steric bulk,3,0.6666666666666666,7
+GPT-5.1,gpt-5.1-2025-11-13,25,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.1,gpt-5.1-2025-11-13,25,F7,Water content,7,0.0,2
+GPT-5.1,gpt-5.1-2025-11-13,26,F1,Halide:Sb ratio,2,0.8333333333333334,2
+GPT-5.1,gpt-5.1-2025-11-13,26,F2,Sb oxidation state,1,1.0,4
+GPT-5.1,gpt-5.1-2025-11-13,26,F3,Halide composition,5,0.3333333333333333,5
+GPT-5.1,gpt-5.1-2025-11-13,26,F4,Organic cation molecular structure,4,0.5,3
+GPT-5.1,gpt-5.1-2025-11-13,26,F5,Organic cation size / steric bulk,3,0.6666666666666666,1
+GPT-5.1,gpt-5.1-2025-11-13,26,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-5.1,gpt-5.1-2025-11-13,26,F7,Water content,7,0.0,7
+GPT-5.1,gpt-5.1-2025-11-13,27,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.1,gpt-5.1-2025-11-13,27,F2,Sb oxidation state,4,0.5,1
+GPT-5.1,gpt-5.1-2025-11-13,27,F3,Halide composition,6,0.16666666666666666,3
+GPT-5.1,gpt-5.1-2025-11-13,27,F4,Organic cation molecular structure,5,0.3333333333333333,4
+GPT-5.1,gpt-5.1-2025-11-13,27,F5,Organic cation size / steric bulk,2,0.8333333333333334,7
+GPT-5.1,gpt-5.1-2025-11-13,27,F6,Organic cation charge / protonation state,3,0.6666666666666666,5
+GPT-5.1,gpt-5.1-2025-11-13,27,F7,Water content,7,0.0,2
+GPT-5.1,gpt-5.1-2025-11-13,28,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.1,gpt-5.1-2025-11-13,28,F2,Sb oxidation state,4,0.5,7
+GPT-5.1,gpt-5.1-2025-11-13,28,F3,Halide composition,6,0.16666666666666666,4
+GPT-5.1,gpt-5.1-2025-11-13,28,F4,Organic cation molecular structure,2,0.8333333333333334,6
+GPT-5.1,gpt-5.1-2025-11-13,28,F5,Organic cation size / steric bulk,3,0.6666666666666666,2
+GPT-5.1,gpt-5.1-2025-11-13,28,F6,Organic cation charge / protonation state,5,0.3333333333333333,1
+GPT-5.1,gpt-5.1-2025-11-13,28,F7,Water content,7,0.0,5
+GPT-5.1,gpt-5.1-2025-11-13,29,F1,Halide:Sb ratio,1,1.0,2
+GPT-5.1,gpt-5.1-2025-11-13,29,F2,Sb oxidation state,2,0.8333333333333334,6
+GPT-5.1,gpt-5.1-2025-11-13,29,F3,Halide composition,5,0.3333333333333333,5
+GPT-5.1,gpt-5.1-2025-11-13,29,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-5.1,gpt-5.1-2025-11-13,29,F5,Organic cation size / steric bulk,4,0.5,4
+GPT-5.1,gpt-5.1-2025-11-13,29,F6,Organic cation charge / protonation state,7,0.0,1
+GPT-5.1,gpt-5.1-2025-11-13,29,F7,Water content,6,0.16666666666666666,3
+GPT-5.1,gpt-5.1-2025-11-13,30,F1,Halide:Sb ratio,2,0.8333333333333334,1
+GPT-5.1,gpt-5.1-2025-11-13,30,F2,Sb oxidation state,1,1.0,7
+GPT-5.1,gpt-5.1-2025-11-13,30,F3,Halide composition,5,0.3333333333333333,3
+GPT-5.1,gpt-5.1-2025-11-13,30,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-5.1,gpt-5.1-2025-11-13,30,F5,Organic cation size / steric bulk,4,0.5,4
+GPT-5.1,gpt-5.1-2025-11-13,30,F6,Organic cation charge / protonation state,7,0.0,6
+GPT-5.1,gpt-5.1-2025-11-13,30,F7,Water content,6,0.16666666666666666,2
+GPT-5.5,gpt-5.5-2026-04-23,1,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.5,gpt-5.5-2026-04-23,1,F2,Sb oxidation state,3,0.6666666666666666,3
+GPT-5.5,gpt-5.5-2026-04-23,1,F3,Halide composition,5,0.3333333333333333,4
+GPT-5.5,gpt-5.5-2026-04-23,1,F4,Organic cation molecular structure,2,0.8333333333333334,1
+GPT-5.5,gpt-5.5-2026-04-23,1,F5,Organic cation size / steric bulk,4,0.5,7
+GPT-5.5,gpt-5.5-2026-04-23,1,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-5.5,gpt-5.5-2026-04-23,1,F7,Water content,7,0.0,5
+GPT-5.5,gpt-5.5-2026-04-23,2,F1,Halide:Sb ratio,1,1.0,1
+GPT-5.5,gpt-5.5-2026-04-23,2,F2,Sb oxidation state,3,0.6666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,2,F3,Halide composition,5,0.3333333333333333,3
+GPT-5.5,gpt-5.5-2026-04-23,2,F4,Organic cation molecular structure,2,0.8333333333333334,7
+GPT-5.5,gpt-5.5-2026-04-23,2,F5,Organic cation size / steric bulk,4,0.5,2
+GPT-5.5,gpt-5.5-2026-04-23,2,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-5.5,gpt-5.5-2026-04-23,2,F7,Water content,7,0.0,6
+GPT-5.5,gpt-5.5-2026-04-23,3,F1,Halide:Sb ratio,1,1.0,7
+GPT-5.5,gpt-5.5-2026-04-23,3,F2,Sb oxidation state,4,0.5,6
+GPT-5.5,gpt-5.5-2026-04-23,3,F3,Halide composition,6,0.16666666666666666,5
+GPT-5.5,gpt-5.5-2026-04-23,3,F4,Organic cation molecular structure,2,0.8333333333333334,2
+GPT-5.5,gpt-5.5-2026-04-23,3,F5,Organic cation size / steric bulk,3,0.6666666666666666,1
+GPT-5.5,gpt-5.5-2026-04-23,3,F6,Organic cation charge / protonation state,5,0.3333333333333333,3
+GPT-5.5,gpt-5.5-2026-04-23,3,F7,Water content,7,0.0,4
+GPT-5.5,gpt-5.5-2026-04-23,4,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.5,gpt-5.5-2026-04-23,4,F2,Sb oxidation state,3,0.6666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,4,F3,Halide composition,5,0.3333333333333333,1
+GPT-5.5,gpt-5.5-2026-04-23,4,F4,Organic cation molecular structure,2,0.8333333333333334,2
+GPT-5.5,gpt-5.5-2026-04-23,4,F5,Organic cation size / steric bulk,4,0.5,5
+GPT-5.5,gpt-5.5-2026-04-23,4,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,4,F7,Water content,7,0.0,3
+GPT-5.5,gpt-5.5-2026-04-23,5,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.5,gpt-5.5-2026-04-23,5,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-5.5,gpt-5.5-2026-04-23,5,F3,Halide composition,6,0.16666666666666666,2
+GPT-5.5,gpt-5.5-2026-04-23,5,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,5,F5,Organic cation size / steric bulk,4,0.5,5
+GPT-5.5,gpt-5.5-2026-04-23,5,F6,Organic cation charge / protonation state,5,0.3333333333333333,1
+GPT-5.5,gpt-5.5-2026-04-23,5,F7,Water content,7,0.0,4
+GPT-5.5,gpt-5.5-2026-04-23,6,F1,Halide:Sb ratio,1,1.0,7
+GPT-5.5,gpt-5.5-2026-04-23,6,F2,Sb oxidation state,2,0.8333333333333334,1
+GPT-5.5,gpt-5.5-2026-04-23,6,F3,Halide composition,4,0.5,2
+GPT-5.5,gpt-5.5-2026-04-23,6,F4,Organic cation molecular structure,3,0.6666666666666666,3
+GPT-5.5,gpt-5.5-2026-04-23,6,F5,Organic cation size / steric bulk,5,0.3333333333333333,5
+GPT-5.5,gpt-5.5-2026-04-23,6,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,6,F7,Water content,7,0.0,6
+GPT-5.5,gpt-5.5-2026-04-23,7,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.5,gpt-5.5-2026-04-23,7,F2,Sb oxidation state,3,0.6666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,7,F3,Halide composition,4,0.5,2
+GPT-5.5,gpt-5.5-2026-04-23,7,F4,Organic cation molecular structure,2,0.8333333333333334,1
+GPT-5.5,gpt-5.5-2026-04-23,7,F5,Organic cation size / steric bulk,5,0.3333333333333333,4
+GPT-5.5,gpt-5.5-2026-04-23,7,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-5.5,gpt-5.5-2026-04-23,7,F7,Water content,7,0.0,5
+GPT-5.5,gpt-5.5-2026-04-23,8,F1,Halide:Sb ratio,1,1.0,7
+GPT-5.5,gpt-5.5-2026-04-23,8,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-5.5,gpt-5.5-2026-04-23,8,F3,Halide composition,5,0.3333333333333333,1
+GPT-5.5,gpt-5.5-2026-04-23,8,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-5.5,gpt-5.5-2026-04-23,8,F5,Organic cation size / steric bulk,4,0.5,3
+GPT-5.5,gpt-5.5-2026-04-23,8,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,8,F7,Water content,7,0.0,6
+GPT-5.5,gpt-5.5-2026-04-23,9,F1,Halide:Sb ratio,1,1.0,2
+GPT-5.5,gpt-5.5-2026-04-23,9,F2,Sb oxidation state,3,0.6666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,9,F3,Halide composition,5,0.3333333333333333,4
+GPT-5.5,gpt-5.5-2026-04-23,9,F4,Organic cation molecular structure,2,0.8333333333333334,3
+GPT-5.5,gpt-5.5-2026-04-23,9,F5,Organic cation size / steric bulk,4,0.5,6
+GPT-5.5,gpt-5.5-2026-04-23,9,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-5.5,gpt-5.5-2026-04-23,9,F7,Water content,7,0.0,1
+GPT-5.5,gpt-5.5-2026-04-23,10,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.5,gpt-5.5-2026-04-23,10,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-5.5,gpt-5.5-2026-04-23,10,F3,Halide composition,4,0.5,2
+GPT-5.5,gpt-5.5-2026-04-23,10,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,10,F5,Organic cation size / steric bulk,5,0.3333333333333333,5
+GPT-5.5,gpt-5.5-2026-04-23,10,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,10,F7,Water content,7,0.0,1
+GPT-5.5,gpt-5.5-2026-04-23,11,F1,Halide:Sb ratio,1,1.0,5
+GPT-5.5,gpt-5.5-2026-04-23,11,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-5.5,gpt-5.5-2026-04-23,11,F3,Halide composition,4,0.5,6
+GPT-5.5,gpt-5.5-2026-04-23,11,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,11,F5,Organic cation size / steric bulk,5,0.3333333333333333,1
+GPT-5.5,gpt-5.5-2026-04-23,11,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-5.5,gpt-5.5-2026-04-23,11,F7,Water content,7,0.0,7
+GPT-5.5,gpt-5.5-2026-04-23,12,F1,Halide:Sb ratio,1,1.0,1
+GPT-5.5,gpt-5.5-2026-04-23,12,F2,Sb oxidation state,3,0.6666666666666666,2
+GPT-5.5,gpt-5.5-2026-04-23,12,F3,Halide composition,5,0.3333333333333333,6
+GPT-5.5,gpt-5.5-2026-04-23,12,F4,Organic cation molecular structure,2,0.8333333333333334,5
+GPT-5.5,gpt-5.5-2026-04-23,12,F5,Organic cation size / steric bulk,4,0.5,4
+GPT-5.5,gpt-5.5-2026-04-23,12,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,12,F7,Water content,7,0.0,3
+GPT-5.5,gpt-5.5-2026-04-23,13,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.5,gpt-5.5-2026-04-23,13,F2,Sb oxidation state,3,0.6666666666666666,6
+GPT-5.5,gpt-5.5-2026-04-23,13,F3,Halide composition,5,0.3333333333333333,5
+GPT-5.5,gpt-5.5-2026-04-23,13,F4,Organic cation molecular structure,2,0.8333333333333334,2
+GPT-5.5,gpt-5.5-2026-04-23,13,F5,Organic cation size / steric bulk,4,0.5,7
+GPT-5.5,gpt-5.5-2026-04-23,13,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.5,gpt-5.5-2026-04-23,13,F7,Water content,7,0.0,1
+GPT-5.5,gpt-5.5-2026-04-23,14,F1,Halide:Sb ratio,1,1.0,7
+GPT-5.5,gpt-5.5-2026-04-23,14,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-5.5,gpt-5.5-2026-04-23,14,F3,Halide composition,6,0.16666666666666666,6
+GPT-5.5,gpt-5.5-2026-04-23,14,F4,Organic cation molecular structure,3,0.6666666666666666,2
+GPT-5.5,gpt-5.5-2026-04-23,14,F5,Organic cation size / steric bulk,4,0.5,3
+GPT-5.5,gpt-5.5-2026-04-23,14,F6,Organic cation charge / protonation state,5,0.3333333333333333,1
+GPT-5.5,gpt-5.5-2026-04-23,14,F7,Water content,7,0.0,5
+GPT-5.5,gpt-5.5-2026-04-23,15,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.5,gpt-5.5-2026-04-23,15,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-5.5,gpt-5.5-2026-04-23,15,F3,Halide composition,5,0.3333333333333333,5
+GPT-5.5,gpt-5.5-2026-04-23,15,F4,Organic cation molecular structure,3,0.6666666666666666,6
+GPT-5.5,gpt-5.5-2026-04-23,15,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.5,gpt-5.5-2026-04-23,15,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,15,F7,Water content,7,0.0,4
+GPT-5.5,gpt-5.5-2026-04-23,16,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.5,gpt-5.5-2026-04-23,16,F2,Sb oxidation state,3,0.6666666666666666,2
+GPT-5.5,gpt-5.5-2026-04-23,16,F3,Halide composition,5,0.3333333333333333,7
+GPT-5.5,gpt-5.5-2026-04-23,16,F4,Organic cation molecular structure,2,0.8333333333333334,1
+GPT-5.5,gpt-5.5-2026-04-23,16,F5,Organic cation size / steric bulk,4,0.5,6
+GPT-5.5,gpt-5.5-2026-04-23,16,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-5.5,gpt-5.5-2026-04-23,16,F7,Water content,7,0.0,3
+GPT-5.5,gpt-5.5-2026-04-23,17,F1,Halide:Sb ratio,1,1.0,5
+GPT-5.5,gpt-5.5-2026-04-23,17,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-5.5,gpt-5.5-2026-04-23,17,F3,Halide composition,5,0.3333333333333333,6
+GPT-5.5,gpt-5.5-2026-04-23,17,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,17,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.5,gpt-5.5-2026-04-23,17,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.5,gpt-5.5-2026-04-23,17,F7,Water content,7,0.0,7
+GPT-5.5,gpt-5.5-2026-04-23,18,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.5,gpt-5.5-2026-04-23,18,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-5.5,gpt-5.5-2026-04-23,18,F3,Halide composition,5,0.3333333333333333,3
+GPT-5.5,gpt-5.5-2026-04-23,18,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,18,F5,Organic cation size / steric bulk,4,0.5,2
+GPT-5.5,gpt-5.5-2026-04-23,18,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-5.5,gpt-5.5-2026-04-23,18,F7,Water content,7,0.0,1
+GPT-5.5,gpt-5.5-2026-04-23,19,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.5,gpt-5.5-2026-04-23,19,F2,Sb oxidation state,3,0.6666666666666666,6
+GPT-5.5,gpt-5.5-2026-04-23,19,F3,Halide composition,5,0.3333333333333333,7
+GPT-5.5,gpt-5.5-2026-04-23,19,F4,Organic cation molecular structure,2,0.8333333333333334,1
+GPT-5.5,gpt-5.5-2026-04-23,19,F5,Organic cation size / steric bulk,4,0.5,2
+GPT-5.5,gpt-5.5-2026-04-23,19,F6,Organic cation charge / protonation state,7,0.0,5
+GPT-5.5,gpt-5.5-2026-04-23,19,F7,Water content,6,0.16666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,20,F1,Halide:Sb ratio,1,1.0,5
+GPT-5.5,gpt-5.5-2026-04-23,20,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-5.5,gpt-5.5-2026-04-23,20,F3,Halide composition,5,0.3333333333333333,7
+GPT-5.5,gpt-5.5-2026-04-23,20,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-5.5,gpt-5.5-2026-04-23,20,F5,Organic cation size / steric bulk,4,0.5,6
+GPT-5.5,gpt-5.5-2026-04-23,20,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.5,gpt-5.5-2026-04-23,20,F7,Water content,7,0.0,2
+GPT-5.5,gpt-5.5-2026-04-23,21,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.5,gpt-5.5-2026-04-23,21,F2,Sb oxidation state,2,0.8333333333333334,1
+GPT-5.5,gpt-5.5-2026-04-23,21,F3,Halide composition,4,0.5,2
+GPT-5.5,gpt-5.5-2026-04-23,21,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-5.5,gpt-5.5-2026-04-23,21,F5,Organic cation size / steric bulk,5,0.3333333333333333,3
+GPT-5.5,gpt-5.5-2026-04-23,21,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,21,F7,Water content,7,0.0,6
+GPT-5.5,gpt-5.5-2026-04-23,22,F1,Halide:Sb ratio,1,1.0,5
+GPT-5.5,gpt-5.5-2026-04-23,22,F2,Sb oxidation state,2,0.8333333333333334,1
+GPT-5.5,gpt-5.5-2026-04-23,22,F3,Halide composition,6,0.16666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,22,F4,Organic cation molecular structure,3,0.6666666666666666,3
+GPT-5.5,gpt-5.5-2026-04-23,22,F5,Organic cation size / steric bulk,4,0.5,7
+GPT-5.5,gpt-5.5-2026-04-23,22,F6,Organic cation charge / protonation state,5,0.3333333333333333,2
+GPT-5.5,gpt-5.5-2026-04-23,22,F7,Water content,7,0.0,6
+GPT-5.5,gpt-5.5-2026-04-23,23,F1,Halide:Sb ratio,1,1.0,2
+GPT-5.5,gpt-5.5-2026-04-23,23,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-5.5,gpt-5.5-2026-04-23,23,F3,Halide composition,5,0.3333333333333333,1
+GPT-5.5,gpt-5.5-2026-04-23,23,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,23,F5,Organic cation size / steric bulk,4,0.5,6
+GPT-5.5,gpt-5.5-2026-04-23,23,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.5,gpt-5.5-2026-04-23,23,F7,Water content,7,0.0,7
+GPT-5.5,gpt-5.5-2026-04-23,24,F1,Halide:Sb ratio,1,1.0,1
+GPT-5.5,gpt-5.5-2026-04-23,24,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-5.5,gpt-5.5-2026-04-23,24,F3,Halide composition,5,0.3333333333333333,7
+GPT-5.5,gpt-5.5-2026-04-23,24,F4,Organic cation molecular structure,4,0.5,6
+GPT-5.5,gpt-5.5-2026-04-23,24,F5,Organic cation size / steric bulk,3,0.6666666666666666,3
+GPT-5.5,gpt-5.5-2026-04-23,24,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-5.5,gpt-5.5-2026-04-23,24,F7,Water content,7,0.0,4
+GPT-5.5,gpt-5.5-2026-04-23,25,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.5,gpt-5.5-2026-04-23,25,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-5.5,gpt-5.5-2026-04-23,25,F3,Halide composition,5,0.3333333333333333,1
+GPT-5.5,gpt-5.5-2026-04-23,25,F4,Organic cation molecular structure,3,0.6666666666666666,6
+GPT-5.5,gpt-5.5-2026-04-23,25,F5,Organic cation size / steric bulk,4,0.5,7
+GPT-5.5,gpt-5.5-2026-04-23,25,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,25,F7,Water content,7,0.0,2
+GPT-5.5,gpt-5.5-2026-04-23,26,F1,Halide:Sb ratio,1,1.0,2
+GPT-5.5,gpt-5.5-2026-04-23,26,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-5.5,gpt-5.5-2026-04-23,26,F3,Halide composition,5,0.3333333333333333,5
+GPT-5.5,gpt-5.5-2026-04-23,26,F4,Organic cation molecular structure,3,0.6666666666666666,3
+GPT-5.5,gpt-5.5-2026-04-23,26,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.5,gpt-5.5-2026-04-23,26,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-5.5,gpt-5.5-2026-04-23,26,F7,Water content,7,0.0,7
+GPT-5.5,gpt-5.5-2026-04-23,27,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.5,gpt-5.5-2026-04-23,27,F2,Sb oxidation state,3,0.6666666666666666,1
+GPT-5.5,gpt-5.5-2026-04-23,27,F3,Halide composition,5,0.3333333333333333,3
+GPT-5.5,gpt-5.5-2026-04-23,27,F4,Organic cation molecular structure,2,0.8333333333333334,4
+GPT-5.5,gpt-5.5-2026-04-23,27,F5,Organic cation size / steric bulk,4,0.5,7
+GPT-5.5,gpt-5.5-2026-04-23,27,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-5.5,gpt-5.5-2026-04-23,27,F7,Water content,7,0.0,2
+GPT-5.5,gpt-5.5-2026-04-23,28,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.5,gpt-5.5-2026-04-23,28,F2,Sb oxidation state,4,0.5,7
+GPT-5.5,gpt-5.5-2026-04-23,28,F3,Halide composition,6,0.16666666666666666,4
+GPT-5.5,gpt-5.5-2026-04-23,28,F4,Organic cation molecular structure,2,0.8333333333333334,6
+GPT-5.5,gpt-5.5-2026-04-23,28,F5,Organic cation size / steric bulk,3,0.6666666666666666,2
+GPT-5.5,gpt-5.5-2026-04-23,28,F6,Organic cation charge / protonation state,5,0.3333333333333333,1
+GPT-5.5,gpt-5.5-2026-04-23,28,F7,Water content,7,0.0,5
+GPT-5.5,gpt-5.5-2026-04-23,29,F1,Halide:Sb ratio,1,1.0,2
+GPT-5.5,gpt-5.5-2026-04-23,29,F2,Sb oxidation state,2,0.8333333333333334,6
+GPT-5.5,gpt-5.5-2026-04-23,29,F3,Halide composition,5,0.3333333333333333,5
+GPT-5.5,gpt-5.5-2026-04-23,29,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,29,F5,Organic cation size / steric bulk,4,0.5,4
+GPT-5.5,gpt-5.5-2026-04-23,29,F6,Organic cation charge / protonation state,6,0.16666666666666666,1
+GPT-5.5,gpt-5.5-2026-04-23,29,F7,Water content,7,0.0,3
+GPT-5.5,gpt-5.5-2026-04-23,30,F1,Halide:Sb ratio,1,1.0,1
+GPT-5.5,gpt-5.5-2026-04-23,30,F2,Sb oxidation state,3,0.6666666666666666,7
+GPT-5.5,gpt-5.5-2026-04-23,30,F3,Halide composition,5,0.3333333333333333,3
+GPT-5.5,gpt-5.5-2026-04-23,30,F4,Organic cation molecular structure,2,0.8333333333333334,5
+GPT-5.5,gpt-5.5-2026-04-23,30,F5,Organic cation size / steric bulk,4,0.5,4
+GPT-5.5,gpt-5.5-2026-04-23,30,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-5.5,gpt-5.5-2026-04-23,30,F7,Water content,7,0.0,2
+GPT-5.6 Sol,gpt-5.6-sol,1,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.6 Sol,gpt-5.6-sol,1,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-5.6 Sol,gpt-5.6-sol,1,F3,Halide composition,6,0.16666666666666666,4
+GPT-5.6 Sol,gpt-5.6-sol,1,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,1,F5,Organic cation size / steric bulk,4,0.5,7
+GPT-5.6 Sol,gpt-5.6-sol,1,F6,Organic cation charge / protonation state,5,0.3333333333333333,2
+GPT-5.6 Sol,gpt-5.6-sol,1,F7,Water content,7,0.0,5
+GPT-5.6 Sol,gpt-5.6-sol,2,F1,Halide:Sb ratio,1,1.0,1
+GPT-5.6 Sol,gpt-5.6-sol,2,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-5.6 Sol,gpt-5.6-sol,2,F3,Halide composition,5,0.3333333333333333,3
+GPT-5.6 Sol,gpt-5.6-sol,2,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-5.6 Sol,gpt-5.6-sol,2,F5,Organic cation size / steric bulk,4,0.5,2
+GPT-5.6 Sol,gpt-5.6-sol,2,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-5.6 Sol,gpt-5.6-sol,2,F7,Water content,7,0.0,6
+GPT-5.6 Sol,gpt-5.6-sol,3,F1,Halide:Sb ratio,1,1.0,7
+GPT-5.6 Sol,gpt-5.6-sol,3,F2,Sb oxidation state,2,0.8333333333333334,6
+GPT-5.6 Sol,gpt-5.6-sol,3,F3,Halide composition,5,0.3333333333333333,5
+GPT-5.6 Sol,gpt-5.6-sol,3,F4,Organic cation molecular structure,3,0.6666666666666666,2
+GPT-5.6 Sol,gpt-5.6-sol,3,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.6 Sol,gpt-5.6-sol,3,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.6 Sol,gpt-5.6-sol,3,F7,Water content,7,0.0,4
+GPT-5.6 Sol,gpt-5.6-sol,4,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.6 Sol,gpt-5.6-sol,4,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-5.6 Sol,gpt-5.6-sol,4,F3,Halide composition,4,0.5,1
+GPT-5.6 Sol,gpt-5.6-sol,4,F4,Organic cation molecular structure,3,0.6666666666666666,2
+GPT-5.6 Sol,gpt-5.6-sol,4,F5,Organic cation size / steric bulk,5,0.3333333333333333,5
+GPT-5.6 Sol,gpt-5.6-sol,4,F6,Organic cation charge / protonation state,7,0.0,7
+GPT-5.6 Sol,gpt-5.6-sol,4,F7,Water content,6,0.16666666666666666,3
+GPT-5.6 Sol,gpt-5.6-sol,5,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.6 Sol,gpt-5.6-sol,5,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-5.6 Sol,gpt-5.6-sol,5,F3,Halide composition,5,0.3333333333333333,2
+GPT-5.6 Sol,gpt-5.6-sol,5,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-5.6 Sol,gpt-5.6-sol,5,F5,Organic cation size / steric bulk,4,0.5,5
+GPT-5.6 Sol,gpt-5.6-sol,5,F6,Organic cation charge / protonation state,6,0.16666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,5,F7,Water content,7,0.0,4
+GPT-5.6 Sol,gpt-5.6-sol,6,F1,Halide:Sb ratio,1,1.0,7
+GPT-5.6 Sol,gpt-5.6-sol,6,F2,Sb oxidation state,2,0.8333333333333334,1
+GPT-5.6 Sol,gpt-5.6-sol,6,F3,Halide composition,5,0.3333333333333333,2
+GPT-5.6 Sol,gpt-5.6-sol,6,F4,Organic cation molecular structure,3,0.6666666666666666,3
+GPT-5.6 Sol,gpt-5.6-sol,6,F5,Organic cation size / steric bulk,4,0.5,5
+GPT-5.6 Sol,gpt-5.6-sol,6,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.6 Sol,gpt-5.6-sol,6,F7,Water content,7,0.0,6
+GPT-5.6 Sol,gpt-5.6-sol,7,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.6 Sol,gpt-5.6-sol,7,F2,Sb oxidation state,2,0.8333333333333334,7
+GPT-5.6 Sol,gpt-5.6-sol,7,F3,Halide composition,5,0.3333333333333333,2
+GPT-5.6 Sol,gpt-5.6-sol,7,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,7,F5,Organic cation size / steric bulk,4,0.5,4
+GPT-5.6 Sol,gpt-5.6-sol,7,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-5.6 Sol,gpt-5.6-sol,7,F7,Water content,7,0.0,5
+GPT-5.6 Sol,gpt-5.6-sol,8,F1,Halide:Sb ratio,1,1.0,7
+GPT-5.6 Sol,gpt-5.6-sol,8,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-5.6 Sol,gpt-5.6-sol,8,F3,Halide composition,5,0.3333333333333333,1
+GPT-5.6 Sol,gpt-5.6-sol,8,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-5.6 Sol,gpt-5.6-sol,8,F5,Organic cation size / steric bulk,4,0.5,3
+GPT-5.6 Sol,gpt-5.6-sol,8,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.6 Sol,gpt-5.6-sol,8,F7,Water content,7,0.0,6
+GPT-5.6 Sol,gpt-5.6-sol,9,F1,Halide:Sb ratio,1,1.0,2
+GPT-5.6 Sol,gpt-5.6-sol,9,F2,Sb oxidation state,2,0.8333333333333334,7
+GPT-5.6 Sol,gpt-5.6-sol,9,F3,Halide composition,4,0.5,4
+GPT-5.6 Sol,gpt-5.6-sol,9,F4,Organic cation molecular structure,3,0.6666666666666666,3
+GPT-5.6 Sol,gpt-5.6-sol,9,F5,Organic cation size / steric bulk,5,0.3333333333333333,6
+GPT-5.6 Sol,gpt-5.6-sol,9,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-5.6 Sol,gpt-5.6-sol,9,F7,Water content,7,0.0,1
+GPT-5.6 Sol,gpt-5.6-sol,10,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.6 Sol,gpt-5.6-sol,10,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-5.6 Sol,gpt-5.6-sol,10,F3,Halide composition,5,0.3333333333333333,2
+GPT-5.6 Sol,gpt-5.6-sol,10,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-5.6 Sol,gpt-5.6-sol,10,F5,Organic cation size / steric bulk,4,0.5,5
+GPT-5.6 Sol,gpt-5.6-sol,10,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.6 Sol,gpt-5.6-sol,10,F7,Water content,7,0.0,1
+GPT-5.6 Sol,gpt-5.6-sol,11,F1,Halide:Sb ratio,1,1.0,5
+GPT-5.6 Sol,gpt-5.6-sol,11,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-5.6 Sol,gpt-5.6-sol,11,F3,Halide composition,5,0.3333333333333333,6
+GPT-5.6 Sol,gpt-5.6-sol,11,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-5.6 Sol,gpt-5.6-sol,11,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.6 Sol,gpt-5.6-sol,11,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-5.6 Sol,gpt-5.6-sol,11,F7,Water content,7,0.0,7
+GPT-5.6 Sol,gpt-5.6-sol,12,F1,Halide:Sb ratio,1,1.0,1
+GPT-5.6 Sol,gpt-5.6-sol,12,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-5.6 Sol,gpt-5.6-sol,12,F3,Halide composition,6,0.16666666666666666,6
+GPT-5.6 Sol,gpt-5.6-sol,12,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-5.6 Sol,gpt-5.6-sol,12,F5,Organic cation size / steric bulk,4,0.5,4
+GPT-5.6 Sol,gpt-5.6-sol,12,F6,Organic cation charge / protonation state,5,0.3333333333333333,7
+GPT-5.6 Sol,gpt-5.6-sol,12,F7,Water content,7,0.0,3
+GPT-5.6 Sol,gpt-5.6-sol,13,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.6 Sol,gpt-5.6-sol,13,F2,Sb oxidation state,2,0.8333333333333334,6
+GPT-5.6 Sol,gpt-5.6-sol,13,F3,Halide composition,5,0.3333333333333333,5
+GPT-5.6 Sol,gpt-5.6-sol,13,F4,Organic cation molecular structure,3,0.6666666666666666,2
+GPT-5.6 Sol,gpt-5.6-sol,13,F5,Organic cation size / steric bulk,4,0.5,7
+GPT-5.6 Sol,gpt-5.6-sol,13,F6,Organic cation charge / protonation state,7,0.0,3
+GPT-5.6 Sol,gpt-5.6-sol,13,F7,Water content,6,0.16666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,14,F1,Halide:Sb ratio,1,1.0,7
+GPT-5.6 Sol,gpt-5.6-sol,14,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-5.6 Sol,gpt-5.6-sol,14,F3,Halide composition,5,0.3333333333333333,6
+GPT-5.6 Sol,gpt-5.6-sol,14,F4,Organic cation molecular structure,3,0.6666666666666666,2
+GPT-5.6 Sol,gpt-5.6-sol,14,F5,Organic cation size / steric bulk,4,0.5,3
+GPT-5.6 Sol,gpt-5.6-sol,14,F6,Organic cation charge / protonation state,6,0.16666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,14,F7,Water content,7,0.0,5
+GPT-5.6 Sol,gpt-5.6-sol,15,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.6 Sol,gpt-5.6-sol,15,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-5.6 Sol,gpt-5.6-sol,15,F3,Halide composition,6,0.16666666666666666,5
+GPT-5.6 Sol,gpt-5.6-sol,15,F4,Organic cation molecular structure,3,0.6666666666666666,6
+GPT-5.6 Sol,gpt-5.6-sol,15,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.6 Sol,gpt-5.6-sol,15,F6,Organic cation charge / protonation state,5,0.3333333333333333,7
+GPT-5.6 Sol,gpt-5.6-sol,15,F7,Water content,7,0.0,4
+GPT-5.6 Sol,gpt-5.6-sol,16,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.6 Sol,gpt-5.6-sol,16,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-5.6 Sol,gpt-5.6-sol,16,F3,Halide composition,5,0.3333333333333333,7
+GPT-5.6 Sol,gpt-5.6-sol,16,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,16,F5,Organic cation size / steric bulk,4,0.5,6
+GPT-5.6 Sol,gpt-5.6-sol,16,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-5.6 Sol,gpt-5.6-sol,16,F7,Water content,7,0.0,3
+GPT-5.6 Sol,gpt-5.6-sol,17,F1,Halide:Sb ratio,1,1.0,5
+GPT-5.6 Sol,gpt-5.6-sol,17,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-5.6 Sol,gpt-5.6-sol,17,F3,Halide composition,5,0.3333333333333333,6
+GPT-5.6 Sol,gpt-5.6-sol,17,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-5.6 Sol,gpt-5.6-sol,17,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.6 Sol,gpt-5.6-sol,17,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.6 Sol,gpt-5.6-sol,17,F7,Water content,7,0.0,7
+GPT-5.6 Sol,gpt-5.6-sol,18,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.6 Sol,gpt-5.6-sol,18,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-5.6 Sol,gpt-5.6-sol,18,F3,Halide composition,5,0.3333333333333333,3
+GPT-5.6 Sol,gpt-5.6-sol,18,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-5.6 Sol,gpt-5.6-sol,18,F5,Organic cation size / steric bulk,4,0.5,2
+GPT-5.6 Sol,gpt-5.6-sol,18,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-5.6 Sol,gpt-5.6-sol,18,F7,Water content,7,0.0,1
+GPT-5.6 Sol,gpt-5.6-sol,19,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.6 Sol,gpt-5.6-sol,19,F2,Sb oxidation state,2,0.8333333333333334,6
+GPT-5.6 Sol,gpt-5.6-sol,19,F3,Halide composition,6,0.16666666666666666,7
+GPT-5.6 Sol,gpt-5.6-sol,19,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,19,F5,Organic cation size / steric bulk,4,0.5,2
+GPT-5.6 Sol,gpt-5.6-sol,19,F6,Organic cation charge / protonation state,5,0.3333333333333333,5
+GPT-5.6 Sol,gpt-5.6-sol,19,F7,Water content,7,0.0,4
+GPT-5.6 Sol,gpt-5.6-sol,20,F1,Halide:Sb ratio,1,1.0,5
+GPT-5.6 Sol,gpt-5.6-sol,20,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-5.6 Sol,gpt-5.6-sol,20,F3,Halide composition,5,0.3333333333333333,7
+GPT-5.6 Sol,gpt-5.6-sol,20,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,20,F5,Organic cation size / steric bulk,4,0.5,6
+GPT-5.6 Sol,gpt-5.6-sol,20,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.6 Sol,gpt-5.6-sol,20,F7,Water content,7,0.0,2
+GPT-5.6 Sol,gpt-5.6-sol,21,F1,Halide:Sb ratio,1,1.0,4
+GPT-5.6 Sol,gpt-5.6-sol,21,F2,Sb oxidation state,2,0.8333333333333334,1
+GPT-5.6 Sol,gpt-5.6-sol,21,F3,Halide composition,5,0.3333333333333333,2
+GPT-5.6 Sol,gpt-5.6-sol,21,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-5.6 Sol,gpt-5.6-sol,21,F5,Organic cation size / steric bulk,4,0.5,3
+GPT-5.6 Sol,gpt-5.6-sol,21,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-5.6 Sol,gpt-5.6-sol,21,F7,Water content,7,0.0,6
+GPT-5.6 Sol,gpt-5.6-sol,22,F1,Halide:Sb ratio,1,1.0,5
+GPT-5.6 Sol,gpt-5.6-sol,22,F2,Sb oxidation state,3,0.6666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,22,F3,Halide composition,5,0.3333333333333333,4
+GPT-5.6 Sol,gpt-5.6-sol,22,F4,Organic cation molecular structure,2,0.8333333333333334,3
+GPT-5.6 Sol,gpt-5.6-sol,22,F5,Organic cation size / steric bulk,4,0.5,7
+GPT-5.6 Sol,gpt-5.6-sol,22,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-5.6 Sol,gpt-5.6-sol,22,F7,Water content,7,0.0,6
+GPT-5.6 Sol,gpt-5.6-sol,23,F1,Halide:Sb ratio,1,1.0,2
+GPT-5.6 Sol,gpt-5.6-sol,23,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-5.6 Sol,gpt-5.6-sol,23,F3,Halide composition,5,0.3333333333333333,1
+GPT-5.6 Sol,gpt-5.6-sol,23,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-5.6 Sol,gpt-5.6-sol,23,F5,Organic cation size / steric bulk,4,0.5,6
+GPT-5.6 Sol,gpt-5.6-sol,23,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-5.6 Sol,gpt-5.6-sol,23,F7,Water content,7,0.0,7
+GPT-5.6 Sol,gpt-5.6-sol,24,F1,Halide:Sb ratio,1,1.0,1
+GPT-5.6 Sol,gpt-5.6-sol,24,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-5.6 Sol,gpt-5.6-sol,24,F3,Halide composition,5,0.3333333333333333,7
+GPT-5.6 Sol,gpt-5.6-sol,24,F4,Organic cation molecular structure,3,0.6666666666666666,6
+GPT-5.6 Sol,gpt-5.6-sol,24,F5,Organic cation size / steric bulk,4,0.5,3
+GPT-5.6 Sol,gpt-5.6-sol,24,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-5.6 Sol,gpt-5.6-sol,24,F7,Water content,7,0.0,4
+GPT-5.6 Sol,gpt-5.6-sol,25,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.6 Sol,gpt-5.6-sol,25,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-5.6 Sol,gpt-5.6-sol,25,F3,Halide composition,5,0.3333333333333333,1
+GPT-5.6 Sol,gpt-5.6-sol,25,F4,Organic cation molecular structure,3,0.6666666666666666,6
+GPT-5.6 Sol,gpt-5.6-sol,25,F5,Organic cation size / steric bulk,4,0.5,7
+GPT-5.6 Sol,gpt-5.6-sol,25,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-5.6 Sol,gpt-5.6-sol,25,F7,Water content,7,0.0,2
+GPT-5.6 Sol,gpt-5.6-sol,26,F1,Halide:Sb ratio,1,1.0,2
+GPT-5.6 Sol,gpt-5.6-sol,26,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-5.6 Sol,gpt-5.6-sol,26,F3,Halide composition,5,0.3333333333333333,5
+GPT-5.6 Sol,gpt-5.6-sol,26,F4,Organic cation molecular structure,3,0.6666666666666666,3
+GPT-5.6 Sol,gpt-5.6-sol,26,F5,Organic cation size / steric bulk,4,0.5,1
+GPT-5.6 Sol,gpt-5.6-sol,26,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-5.6 Sol,gpt-5.6-sol,26,F7,Water content,7,0.0,7
+GPT-5.6 Sol,gpt-5.6-sol,27,F1,Halide:Sb ratio,1,1.0,6
+GPT-5.6 Sol,gpt-5.6-sol,27,F2,Sb oxidation state,2,0.8333333333333334,1
+GPT-5.6 Sol,gpt-5.6-sol,27,F3,Halide composition,5,0.3333333333333333,3
+GPT-5.6 Sol,gpt-5.6-sol,27,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-5.6 Sol,gpt-5.6-sol,27,F5,Organic cation size / steric bulk,4,0.5,7
+GPT-5.6 Sol,gpt-5.6-sol,27,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-5.6 Sol,gpt-5.6-sol,27,F7,Water content,7,0.0,2
+GPT-5.6 Sol,gpt-5.6-sol,28,F1,Halide:Sb ratio,1,1.0,3
+GPT-5.6 Sol,gpt-5.6-sol,28,F2,Sb oxidation state,2,0.8333333333333334,7
+GPT-5.6 Sol,gpt-5.6-sol,28,F3,Halide composition,5,0.3333333333333333,4
+GPT-5.6 Sol,gpt-5.6-sol,28,F4,Organic cation molecular structure,3,0.6666666666666666,6
+GPT-5.6 Sol,gpt-5.6-sol,28,F5,Organic cation size / steric bulk,4,0.5,2
+GPT-5.6 Sol,gpt-5.6-sol,28,F6,Organic cation charge / protonation state,6,0.16666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,28,F7,Water content,7,0.0,5
+GPT-5.6 Sol,gpt-5.6-sol,29,F1,Halide:Sb ratio,1,1.0,2
+GPT-5.6 Sol,gpt-5.6-sol,29,F2,Sb oxidation state,2,0.8333333333333334,6
+GPT-5.6 Sol,gpt-5.6-sol,29,F3,Halide composition,5,0.3333333333333333,5
+GPT-5.6 Sol,gpt-5.6-sol,29,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-5.6 Sol,gpt-5.6-sol,29,F5,Organic cation size / steric bulk,4,0.5,4
+GPT-5.6 Sol,gpt-5.6-sol,29,F6,Organic cation charge / protonation state,6,0.16666666666666666,1
+GPT-5.6 Sol,gpt-5.6-sol,29,F7,Water content,7,0.0,3
+GPT-5.6 Sol,gpt-5.6-sol,30,F1,Halide:Sb ratio,1,1.0,1
+GPT-5.6 Sol,gpt-5.6-sol,30,F2,Sb oxidation state,2,0.8333333333333334,7
+GPT-5.6 Sol,gpt-5.6-sol,30,F3,Halide composition,5,0.3333333333333333,3
+GPT-5.6 Sol,gpt-5.6-sol,30,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-5.6 Sol,gpt-5.6-sol,30,F5,Organic cation size / steric bulk,4,0.5,4
+GPT-5.6 Sol,gpt-5.6-sol,30,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-5.6 Sol,gpt-5.6-sol,30,F7,Water content,7,0.0,2
+GPT-6 Astra,gpt-6-astra,1,F1,Halide:Sb ratio,1,1.0,6
+GPT-6 Astra,gpt-6-astra,1,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-6 Astra,gpt-6-astra,1,F3,Halide composition,4,0.5,4
+GPT-6 Astra,gpt-6-astra,1,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-6 Astra,gpt-6-astra,1,F5,Organic cation size / steric bulk,5,0.3333333333333333,7
+GPT-6 Astra,gpt-6-astra,1,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-6 Astra,gpt-6-astra,1,F7,Water content,7,0.0,5
+GPT-6 Astra,gpt-6-astra,2,F1,Halide:Sb ratio,1,1.0,1
+GPT-6 Astra,gpt-6-astra,2,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-6 Astra,gpt-6-astra,2,F3,Halide composition,4,0.5,3
+GPT-6 Astra,gpt-6-astra,2,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-6 Astra,gpt-6-astra,2,F5,Organic cation size / steric bulk,5,0.3333333333333333,2
+GPT-6 Astra,gpt-6-astra,2,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-6 Astra,gpt-6-astra,2,F7,Water content,7,0.0,6
+GPT-6 Astra,gpt-6-astra,3,F1,Halide:Sb ratio,1,1.0,7
+GPT-6 Astra,gpt-6-astra,3,F2,Sb oxidation state,2,0.8333333333333334,6
+GPT-6 Astra,gpt-6-astra,3,F3,Halide composition,4,0.5,5
+GPT-6 Astra,gpt-6-astra,3,F4,Organic cation molecular structure,3,0.6666666666666666,2
+GPT-6 Astra,gpt-6-astra,3,F5,Organic cation size / steric bulk,5,0.3333333333333333,1
+GPT-6 Astra,gpt-6-astra,3,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-6 Astra,gpt-6-astra,3,F7,Water content,7,0.0,4
+GPT-6 Astra,gpt-6-astra,4,F1,Halide:Sb ratio,1,1.0,6
+GPT-6 Astra,gpt-6-astra,4,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-6 Astra,gpt-6-astra,4,F3,Halide composition,4,0.5,1
+GPT-6 Astra,gpt-6-astra,4,F4,Organic cation molecular structure,3,0.6666666666666666,2
+GPT-6 Astra,gpt-6-astra,4,F5,Organic cation size / steric bulk,5,0.3333333333333333,5
+GPT-6 Astra,gpt-6-astra,4,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-6 Astra,gpt-6-astra,4,F7,Water content,7,0.0,3
+GPT-6 Astra,gpt-6-astra,5,F1,Halide:Sb ratio,1,1.0,6
+GPT-6 Astra,gpt-6-astra,5,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-6 Astra,gpt-6-astra,5,F3,Halide composition,4,0.5,2
+GPT-6 Astra,gpt-6-astra,5,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-6 Astra,gpt-6-astra,5,F5,Organic cation size / steric bulk,5,0.3333333333333333,5
+GPT-6 Astra,gpt-6-astra,5,F6,Organic cation charge / protonation state,6,0.16666666666666666,1
+GPT-6 Astra,gpt-6-astra,5,F7,Water content,7,0.0,4
+GPT-6 Astra,gpt-6-astra,6,F1,Halide:Sb ratio,1,1.0,7
+GPT-6 Astra,gpt-6-astra,6,F2,Sb oxidation state,2,0.8333333333333334,1
+GPT-6 Astra,gpt-6-astra,6,F3,Halide composition,4,0.5,2
+GPT-6 Astra,gpt-6-astra,6,F4,Organic cation molecular structure,3,0.6666666666666666,3
+GPT-6 Astra,gpt-6-astra,6,F5,Organic cation size / steric bulk,5,0.3333333333333333,5
+GPT-6 Astra,gpt-6-astra,6,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-6 Astra,gpt-6-astra,6,F7,Water content,7,0.0,6
+GPT-6 Astra,gpt-6-astra,7,F1,Halide:Sb ratio,1,1.0,3
+GPT-6 Astra,gpt-6-astra,7,F2,Sb oxidation state,2,0.8333333333333334,7
+GPT-6 Astra,gpt-6-astra,7,F3,Halide composition,4,0.5,2
+GPT-6 Astra,gpt-6-astra,7,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-6 Astra,gpt-6-astra,7,F5,Organic cation size / steric bulk,5,0.3333333333333333,4
+GPT-6 Astra,gpt-6-astra,7,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-6 Astra,gpt-6-astra,7,F7,Water content,7,0.0,5
+GPT-6 Astra,gpt-6-astra,8,F1,Halide:Sb ratio,1,1.0,7
+GPT-6 Astra,gpt-6-astra,8,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-6 Astra,gpt-6-astra,8,F3,Halide composition,4,0.5,1
+GPT-6 Astra,gpt-6-astra,8,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-6 Astra,gpt-6-astra,8,F5,Organic cation size / steric bulk,5,0.3333333333333333,3
+GPT-6 Astra,gpt-6-astra,8,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-6 Astra,gpt-6-astra,8,F7,Water content,7,0.0,6
+GPT-6 Astra,gpt-6-astra,9,F1,Halide:Sb ratio,1,1.0,2
+GPT-6 Astra,gpt-6-astra,9,F2,Sb oxidation state,3,0.6666666666666666,7
+GPT-6 Astra,gpt-6-astra,9,F3,Halide composition,4,0.5,4
+GPT-6 Astra,gpt-6-astra,9,F4,Organic cation molecular structure,2,0.8333333333333334,3
+GPT-6 Astra,gpt-6-astra,9,F5,Organic cation size / steric bulk,5,0.3333333333333333,6
+GPT-6 Astra,gpt-6-astra,9,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-6 Astra,gpt-6-astra,9,F7,Water content,7,0.0,1
+GPT-6 Astra,gpt-6-astra,10,F1,Halide:Sb ratio,1,1.0,6
+GPT-6 Astra,gpt-6-astra,10,F2,Sb oxidation state,3,0.6666666666666666,3
+GPT-6 Astra,gpt-6-astra,10,F3,Halide composition,4,0.5,2
+GPT-6 Astra,gpt-6-astra,10,F4,Organic cation molecular structure,2,0.8333333333333334,7
+GPT-6 Astra,gpt-6-astra,10,F5,Organic cation size / steric bulk,5,0.3333333333333333,5
+GPT-6 Astra,gpt-6-astra,10,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-6 Astra,gpt-6-astra,10,F7,Water content,7,0.0,1
+GPT-6 Astra,gpt-6-astra,11,F1,Halide:Sb ratio,1,1.0,5
+GPT-6 Astra,gpt-6-astra,11,F2,Sb oxidation state,2,0.8333333333333334,3
+GPT-6 Astra,gpt-6-astra,11,F3,Halide composition,4,0.5,6
+GPT-6 Astra,gpt-6-astra,11,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-6 Astra,gpt-6-astra,11,F5,Organic cation size / steric bulk,5,0.3333333333333333,1
+GPT-6 Astra,gpt-6-astra,11,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-6 Astra,gpt-6-astra,11,F7,Water content,7,0.0,7
+GPT-6 Astra,gpt-6-astra,12,F1,Halide:Sb ratio,1,1.0,1
+GPT-6 Astra,gpt-6-astra,12,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-6 Astra,gpt-6-astra,12,F3,Halide composition,4,0.5,6
+GPT-6 Astra,gpt-6-astra,12,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-6 Astra,gpt-6-astra,12,F5,Organic cation size / steric bulk,5,0.3333333333333333,4
+GPT-6 Astra,gpt-6-astra,12,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-6 Astra,gpt-6-astra,12,F7,Water content,7,0.0,3
+GPT-6 Astra,gpt-6-astra,13,F1,Halide:Sb ratio,1,1.0,4
+GPT-6 Astra,gpt-6-astra,13,F2,Sb oxidation state,2,0.8333333333333334,6
+GPT-6 Astra,gpt-6-astra,13,F3,Halide composition,4,0.5,5
+GPT-6 Astra,gpt-6-astra,13,F4,Organic cation molecular structure,3,0.6666666666666666,2
+GPT-6 Astra,gpt-6-astra,13,F5,Organic cation size / steric bulk,5,0.3333333333333333,7
+GPT-6 Astra,gpt-6-astra,13,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-6 Astra,gpt-6-astra,13,F7,Water content,7,0.0,1
+GPT-6 Astra,gpt-6-astra,14,F1,Halide:Sb ratio,1,1.0,7
+GPT-6 Astra,gpt-6-astra,14,F2,Sb oxidation state,2,0.8333333333333334,4
+GPT-6 Astra,gpt-6-astra,14,F3,Halide composition,4,0.5,6
+GPT-6 Astra,gpt-6-astra,14,F4,Organic cation molecular structure,3,0.6666666666666666,2
+GPT-6 Astra,gpt-6-astra,14,F5,Organic cation size / steric bulk,5,0.3333333333333333,3
+GPT-6 Astra,gpt-6-astra,14,F6,Organic cation charge / protonation state,6,0.16666666666666666,1
+GPT-6 Astra,gpt-6-astra,14,F7,Water content,7,0.0,5
+GPT-6 Astra,gpt-6-astra,15,F1,Halide:Sb ratio,1,1.0,3
+GPT-6 Astra,gpt-6-astra,15,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-6 Astra,gpt-6-astra,15,F3,Halide composition,4,0.5,5
+GPT-6 Astra,gpt-6-astra,15,F4,Organic cation molecular structure,3,0.6666666666666666,6
+GPT-6 Astra,gpt-6-astra,15,F5,Organic cation size / steric bulk,5,0.3333333333333333,1
+GPT-6 Astra,gpt-6-astra,15,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-6 Astra,gpt-6-astra,15,F7,Water content,7,0.0,4
+GPT-6 Astra,gpt-6-astra,16,F1,Halide:Sb ratio,1,1.0,4
+GPT-6 Astra,gpt-6-astra,16,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-6 Astra,gpt-6-astra,16,F3,Halide composition,4,0.5,7
+GPT-6 Astra,gpt-6-astra,16,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-6 Astra,gpt-6-astra,16,F5,Organic cation size / steric bulk,5,0.3333333333333333,6
+GPT-6 Astra,gpt-6-astra,16,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-6 Astra,gpt-6-astra,16,F7,Water content,7,0.0,3
+GPT-6 Astra,gpt-6-astra,17,F1,Halide:Sb ratio,1,1.0,5
+GPT-6 Astra,gpt-6-astra,17,F2,Sb oxidation state,2,0.8333333333333334,2
+GPT-6 Astra,gpt-6-astra,17,F3,Halide composition,4,0.5,6
+GPT-6 Astra,gpt-6-astra,17,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-6 Astra,gpt-6-astra,17,F5,Organic cation size / steric bulk,5,0.3333333333333333,1
+GPT-6 Astra,gpt-6-astra,17,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-6 Astra,gpt-6-astra,17,F7,Water content,7,0.0,7
+GPT-6 Astra,gpt-6-astra,18,F1,Halide:Sb ratio,1,1.0,4
+GPT-6 Astra,gpt-6-astra,18,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-6 Astra,gpt-6-astra,18,F3,Halide composition,4,0.5,3
+GPT-6 Astra,gpt-6-astra,18,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-6 Astra,gpt-6-astra,18,F5,Organic cation size / steric bulk,5,0.3333333333333333,2
+GPT-6 Astra,gpt-6-astra,18,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-6 Astra,gpt-6-astra,18,F7,Water content,7,0.0,1
+GPT-6 Astra,gpt-6-astra,19,F1,Halide:Sb ratio,1,1.0,3
+GPT-6 Astra,gpt-6-astra,19,F2,Sb oxidation state,2,0.8333333333333334,6
+GPT-6 Astra,gpt-6-astra,19,F3,Halide composition,4,0.5,7
+GPT-6 Astra,gpt-6-astra,19,F4,Organic cation molecular structure,3,0.6666666666666666,1
+GPT-6 Astra,gpt-6-astra,19,F5,Organic cation size / steric bulk,5,0.3333333333333333,2
+GPT-6 Astra,gpt-6-astra,19,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-6 Astra,gpt-6-astra,19,F7,Water content,7,0.0,4
+GPT-6 Astra,gpt-6-astra,20,F1,Halide:Sb ratio,1,1.0,5
+GPT-6 Astra,gpt-6-astra,20,F2,Sb oxidation state,3,0.6666666666666666,4
+GPT-6 Astra,gpt-6-astra,20,F3,Halide composition,4,0.5,7
+GPT-6 Astra,gpt-6-astra,20,F4,Organic cation molecular structure,2,0.8333333333333334,1
+GPT-6 Astra,gpt-6-astra,20,F5,Organic cation size / steric bulk,5,0.3333333333333333,6
+GPT-6 Astra,gpt-6-astra,20,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-6 Astra,gpt-6-astra,20,F7,Water content,7,0.0,2
+GPT-6 Astra,gpt-6-astra,21,F1,Halide:Sb ratio,1,1.0,4
+GPT-6 Astra,gpt-6-astra,21,F2,Sb oxidation state,2,0.8333333333333334,1
+GPT-6 Astra,gpt-6-astra,21,F3,Halide composition,4,0.5,2
+GPT-6 Astra,gpt-6-astra,21,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-6 Astra,gpt-6-astra,21,F5,Organic cation size / steric bulk,5,0.3333333333333333,3
+GPT-6 Astra,gpt-6-astra,21,F6,Organic cation charge / protonation state,6,0.16666666666666666,7
+GPT-6 Astra,gpt-6-astra,21,F7,Water content,7,0.0,6
+GPT-6 Astra,gpt-6-astra,22,F1,Halide:Sb ratio,1,1.0,5
+GPT-6 Astra,gpt-6-astra,22,F2,Sb oxidation state,3,0.6666666666666666,1
+GPT-6 Astra,gpt-6-astra,22,F3,Halide composition,4,0.5,4
+GPT-6 Astra,gpt-6-astra,22,F4,Organic cation molecular structure,2,0.8333333333333334,3
+GPT-6 Astra,gpt-6-astra,22,F5,Organic cation size / steric bulk,5,0.3333333333333333,7
+GPT-6 Astra,gpt-6-astra,22,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-6 Astra,gpt-6-astra,22,F7,Water content,7,0.0,6
+GPT-6 Astra,gpt-6-astra,23,F1,Halide:Sb ratio,1,1.0,2
+GPT-6 Astra,gpt-6-astra,23,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-6 Astra,gpt-6-astra,23,F3,Halide composition,4,0.5,1
+GPT-6 Astra,gpt-6-astra,23,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-6 Astra,gpt-6-astra,23,F5,Organic cation size / steric bulk,5,0.3333333333333333,6
+GPT-6 Astra,gpt-6-astra,23,F6,Organic cation charge / protonation state,6,0.16666666666666666,3
+GPT-6 Astra,gpt-6-astra,23,F7,Water content,7,0.0,7
+GPT-6 Astra,gpt-6-astra,24,F1,Halide:Sb ratio,1,1.0,1
+GPT-6 Astra,gpt-6-astra,24,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-6 Astra,gpt-6-astra,24,F3,Halide composition,4,0.5,7
+GPT-6 Astra,gpt-6-astra,24,F4,Organic cation molecular structure,3,0.6666666666666666,6
+GPT-6 Astra,gpt-6-astra,24,F5,Organic cation size / steric bulk,5,0.3333333333333333,3
+GPT-6 Astra,gpt-6-astra,24,F6,Organic cation charge / protonation state,6,0.16666666666666666,2
+GPT-6 Astra,gpt-6-astra,24,F7,Water content,7,0.0,4
+GPT-6 Astra,gpt-6-astra,25,F1,Halide:Sb ratio,1,1.0,3
+GPT-6 Astra,gpt-6-astra,25,F2,Sb oxidation state,2,0.8333333333333334,5
+GPT-6 Astra,gpt-6-astra,25,F3,Halide composition,4,0.5,1
+GPT-6 Astra,gpt-6-astra,25,F4,Organic cation molecular structure,3,0.6666666666666666,6
+GPT-6 Astra,gpt-6-astra,25,F5,Organic cation size / steric bulk,5,0.3333333333333333,7
+GPT-6 Astra,gpt-6-astra,25,F6,Organic cation charge / protonation state,6,0.16666666666666666,4
+GPT-6 Astra,gpt-6-astra,25,F7,Water content,7,0.0,2
+GPT-6 Astra,gpt-6-astra,26,F1,Halide:Sb ratio,1,1.0,2
+GPT-6 Astra,gpt-6-astra,26,F2,Sb oxidation state,3,0.6666666666666666,4
+GPT-6 Astra,gpt-6-astra,26,F3,Halide composition,4,0.5,5
+GPT-6 Astra,gpt-6-astra,26,F4,Organic cation molecular structure,2,0.8333333333333334,3
+GPT-6 Astra,gpt-6-astra,26,F5,Organic cation size / steric bulk,5,0.3333333333333333,1
+GPT-6 Astra,gpt-6-astra,26,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-6 Astra,gpt-6-astra,26,F7,Water content,7,0.0,7
+GPT-6 Astra,gpt-6-astra,27,F1,Halide:Sb ratio,1,1.0,6
+GPT-6 Astra,gpt-6-astra,27,F2,Sb oxidation state,2,0.8333333333333334,1
+GPT-6 Astra,gpt-6-astra,27,F3,Halide composition,4,0.5,3
+GPT-6 Astra,gpt-6-astra,27,F4,Organic cation molecular structure,3,0.6666666666666666,4
+GPT-6 Astra,gpt-6-astra,27,F5,Organic cation size / steric bulk,5,0.3333333333333333,7
+GPT-6 Astra,gpt-6-astra,27,F6,Organic cation charge / protonation state,6,0.16666666666666666,5
+GPT-6 Astra,gpt-6-astra,27,F7,Water content,7,0.0,2
+GPT-6 Astra,gpt-6-astra,28,F1,Halide:Sb ratio,1,1.0,3
+GPT-6 Astra,gpt-6-astra,28,F2,Sb oxidation state,2,0.8333333333333334,7
+GPT-6 Astra,gpt-6-astra,28,F3,Halide composition,4,0.5,4
+GPT-6 Astra,gpt-6-astra,28,F4,Organic cation molecular structure,3,0.6666666666666666,6
+GPT-6 Astra,gpt-6-astra,28,F5,Organic cation size / steric bulk,5,0.3333333333333333,2
+GPT-6 Astra,gpt-6-astra,28,F6,Organic cation charge / protonation state,6,0.16666666666666666,1
+GPT-6 Astra,gpt-6-astra,28,F7,Water content,7,0.0,5
+GPT-6 Astra,gpt-6-astra,29,F1,Halide:Sb ratio,1,1.0,2
+GPT-6 Astra,gpt-6-astra,29,F2,Sb oxidation state,2,0.8333333333333334,6
+GPT-6 Astra,gpt-6-astra,29,F3,Halide composition,4,0.5,5
+GPT-6 Astra,gpt-6-astra,29,F4,Organic cation molecular structure,3,0.6666666666666666,7
+GPT-6 Astra,gpt-6-astra,29,F5,Organic cation size / steric bulk,5,0.3333333333333333,4
+GPT-6 Astra,gpt-6-astra,29,F6,Organic cation charge / protonation state,6,0.16666666666666666,1
+GPT-6 Astra,gpt-6-astra,29,F7,Water content,7,0.0,3
+GPT-6 Astra,gpt-6-astra,30,F1,Halide:Sb ratio,1,1.0,1
+GPT-6 Astra,gpt-6-astra,30,F2,Sb oxidation state,2,0.8333333333333334,7
+GPT-6 Astra,gpt-6-astra,30,F3,Halide composition,4,0.5,3
+GPT-6 Astra,gpt-6-astra,30,F4,Organic cation molecular structure,3,0.6666666666666666,5
+GPT-6 Astra,gpt-6-astra,30,F5,Organic cation size / steric bulk,5,0.3333333333333333,4
+GPT-6 Astra,gpt-6-astra,30,F6,Organic cation charge / protonation state,6,0.16666666666666666,6
+GPT-6 Astra,gpt-6-astra,30,F7,Water content,7,0.0,2

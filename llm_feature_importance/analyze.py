@@ -1,4 +1,4 @@
-"""Validate Stage 2 responses and produce all requested statistics and CSV tables."""
+"""Validate fixed-category LLM responses and produce all requested statistics and CSV tables."""
 
 from __future__ import annotations
 
@@ -11,8 +11,8 @@ import numpy as np
 import pandas as pd
 from scipy.stats import kendalltau, rankdata
 
-from llm_feature_importance.stage2_collect import load_records, parse_ranking, verify_existing_records
-from llm_feature_importance.stage2_config import (
+from llm_feature_importance.collect import load_records, parse_ranking, verify_existing_records
+from llm_feature_importance.config import (
     BOOTSTRAP_REPLICATES,
     BOOTSTRAP_SEED,
     DEFAULT_OUTPUT_DIR,

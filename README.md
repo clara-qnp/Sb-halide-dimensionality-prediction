@@ -175,19 +175,20 @@ python -m llm_prediction.predict_new_compounds \
 
 The final experiment uses seven fixed feature categories, four LLMs, 30
 controlled presentation orders, and paired conditions with and without the 321
-training examples.
+training examples. The "with examples" condition below is also one of the two
+panels in [Figure 4](#figure-4-feature-importance-for-the-best-performing-ml-and-llm-configurations).
 
 ```bash
-python -m unittest -v llm_feature_importance.test_stage2
+python -m unittest -v llm_feature_importance.tests
 
-python -m llm_feature_importance.stage2_collect_paired \
+python -m llm_feature_importance.collect_paired \
   --data data/prepared_data.xlsx
 
-python -m llm_feature_importance.stage2_analyze --out llm_feature_importance/results
-python -m llm_feature_importance.stage2_analyze --out llm_feature_importance/results_with_data
-python -m llm_feature_importance.stage2_plot --out llm_feature_importance/results
-python -m llm_feature_importance.stage2_plot --out llm_feature_importance/results_with_data
-python -m llm_feature_importance.stage2_compare \
+python -m llm_feature_importance.analyze --out llm_feature_importance/results
+python -m llm_feature_importance.analyze --out llm_feature_importance/results_with_data
+python -m llm_feature_importance.plot --out llm_feature_importance/results
+python -m llm_feature_importance.plot --out llm_feature_importance/results_with_data
+python -m llm_feature_importance.compare \
   --no-data llm_feature_importance/results \
   --with-data llm_feature_importance/results_with_data \
   --out llm_feature_importance/comparison
@@ -295,3 +296,44 @@ reasons outside this code's control:
   reasoning models, whose outputs are not guaranteed to be bit-for-bit
   reproducible across calls even on an unchanged snapshot with identical
   prompts.
+
+### Figure 4: feature importance for the best-performing ML and LLM configurations
+
+Figure 4 contains:
+
+- **(a)** permutation importance for the best ML model (inorganic features plus
+  SMI-TED embeddings with PCA-80); and
+- **(b)** feature importance for each LLM's best setting, summarized by Borda
+  score, from the "with examples" condition of the
+  [LLM feature importance](#llm-feature-importance) experiment above.
+
+`figures/figure_4/figure_4_reference.png` shows the expected result.
+
+Panel (a) is produced by the `feature_importance.permutation_importance` step
+in [ML workflow](#ml-workflow) above — run that first if you haven't
+already. It's fully deterministic (fixed random seeds, pinned `scikit-learn`),
+so no reference data is needed; just rerun it.
+
+Panel (b) needs `llm_feature_importance.plot --out
+llm_feature_importance/results_with_data`, from
+[LLM feature importance](#llm-feature-importance) above. That command's input
+(`model_feature_importance.csv`, `model_stability_kendall.csv`,
+`intermodel_kendall.csv`) is committed as reference data in
+`llm_feature_importance/results_with_data/`, since it comes from live,
+costly LLM calls (the same reproducibility caveats as Figure 3 apply if you
+regenerate it yourself via `collect_paired` and `analyze`).
+`rankings_long.csv` is also committed there — the raw per-trial LLM output
+(one row per model/trial/feature, with its rank and Borda score) that the
+other three files are aggregated from.
+
+Once both panels exist at their default paths
+(`figures/ml_permutation_importance_no_title.png` and
+`llm_feature_importance/results_with_data/figures/figure1_feature_importance_heatmap.png`),
+compose them into Figure 4:
+
+```bash
+python figures/figure_4/make_figure_4.py
+```
+
+The combined figure (`figure_4.png`/`.pdf`) is written to
+`figures/figure_4/output/`.

@@ -8,7 +8,7 @@ from pathlib import Path
 
 import pandas as pd
 
-from llm_feature_importance.stage2_config import MODEL_IDS, ROOT
+from llm_feature_importance.config import MODEL_IDS, ROOT
 from llm_prediction import evaluate_llms as run_llm
 
 

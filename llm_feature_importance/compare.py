@@ -1,4 +1,4 @@
-"""Compare paired no-data and with-data Stage 2 feature-importance results."""
+"""Compare paired no-data and with-data feature-importance results."""
 
 from __future__ import annotations
 
@@ -14,8 +14,8 @@ import numpy as np
 import pandas as pd
 from scipy.stats import kendalltau, rankdata
 
-from llm_feature_importance.stage2_analyze import percentile_ci
-from llm_feature_importance.stage2_config import (
+from llm_feature_importance.analyze import percentile_ci
+from llm_feature_importance.config import (
     BOOTSTRAP_REPLICATES,
     BOOTSTRAP_SEED,
     FEATURE_BY_ID,

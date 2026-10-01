@@ -37,7 +37,7 @@ model evaluation and prediction:
 - `evaluation/`: ML/LLM comparisons and confusion-matrix plots.
 - `common/`: shared plotting utilities.
 - `results_ml/`: generated ML metrics, predictions, and fitted models.
-- `figures/`: generated publication and diagnostic figures.
+- `figures/`: publication-figure scripts, generated publication figures, and diagnostic figures.
 
 ## Installation
 
@@ -192,3 +192,53 @@ python -m llm_feature_importance.stage2_compare \
   --with-data llm_feature_importance/results_with_data \
   --out llm_feature_importance/comparison
 ```
+
+## Reproducing manuscript figures
+
+### Figure 2: dataset composition and organic-cation chemical space
+
+Figure 2 contains:
+
+- **(a)** the 0D versus non-0D dimensionality distribution;
+- **(b)** the dimensionality distribution within the F, Cl, Br, and I families; and
+- **(c)** the RDKit-descriptor UMAP of the original and newly proposed organic cations.
+
+Run from the repository root, after completing [Installation](#installation).
+`figures/figrue_2/figure_2_reference.png` shows the expected result, so you can
+compare it against your own output.
+
+#### 1. Regenerate the UMAP coordinates for panel (c) (optional)
+
+Panel (c)'s input coordinates are already in
+`figures/figrue_2/reference_coordinates/`, so you can skip this step and go
+straight to step 2. Run it if you want to
+regenerate those coordinates yourself — to reproduce them from scratch, or to
+add new proposed cations. `requirements.txt` pins the UMAP-relevant package
+versions (`numpy`, `scipy`, `umap-learn`, `matplotlib`), so installing it as
+specified reproduces `reference_coordinates/` exactly.
+
+```bash
+python figures/figrue_2/generate_umap_coordinates.py
+```
+
+This reads `data/merged_compound_cif_cation.xlsx` and
+`figures/figrue_2/new_cations.csv`, then writes `umap_original_cations.csv`
+and `umap_new_cations.csv` to `figures/figrue_2/generated_coordinates/`.
+
+#### 2. Generate Figure 2
+
+```bash
+python figures/figrue_2/make_figure_2.py
+```
+
+This plots from `figures/figrue_2/reference_coordinates/` by default. If you
+regenerated coordinates in step 1 and want to plot from those instead, pass
+them explicitly:
+
+```bash
+python figures/figrue_2/make_figure_2.py \
+  --coordinates-dir figures/figrue_2/generated_coordinates
+```
+
+Both the combined figure (`figure_2.png`/`.pdf`) and the individual panels are
+written to `figures/figrue_2/output/`.

@@ -1,6 +1,12 @@
 joblib
-matplotlib
-numpy
+# Figure 2 panel (c) pins numpy/scipy/umap-learn: its UMAP embedding is only
+# reproducible run-to-run with matching versions of these three (see
+# figures/figrue_2/reference_coordinates/). matplotlib is pinned too so the
+# rendered figure is pixel-identical (different releases anti-alias text and
+# markers slightly differently). RDKit descriptor values, used here and by
+# the ML/LLM pipelines, are unaffected and stay unpinned.
+matplotlib==3.10.9
+numpy==1.26.4
 openai>=3.11,<4
 openpyxl
 pandas
@@ -13,9 +19,10 @@ rdkit
 # The published train/test predictions and grouped-CV folds were generated with 1.7.2.
 # Newer releases can produce different StratifiedGroupKFold assignments with the same seed.
 scikit-learn==1.7.2
-scipy
+scipy==1.17.1
 shap
 tiktoken
+umap-learn==0.5.9.post2
 
 # Optional: required only when generating SMI-TED embeddings.
 huggingface-hub

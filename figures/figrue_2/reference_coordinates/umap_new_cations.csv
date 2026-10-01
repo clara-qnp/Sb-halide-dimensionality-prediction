@@ -1,0 +1,9 @@
+cation_name,SMILES,in_original,UMAP_1,UMAP_2
+2-thiopheneethylammonium,[NH3+]CCc1cccs1,False,5.1977563,3.2076504
+4-chlorophenethylammonium,[NH3+]CCc1ccc(Cl)cc1,False,5.011487,3.302433
+morpholinium,C1COCC[NH2+]1,True,3.6869593,5.510487
+2-thiophenemethylammonium,[NH3+]Cc1cccs1,False,5.650033,3.2012227
+cyclohexylmethylammonium,[NH3+]CC1CCCCC1,False,4.376216,4.1280675
+4-fluorophenethylammonium,[NH3+]CCc1ccc(F)cc1,True,5.5613933,4.0780344
+cyclohexylammonium,[NH3+]C1CCCCC1,False,4.4448543,4.981362
+iso-pentylammonium (methylbutylammonium),CC(C)CC[NH3+],False,4.233679,7.116128

@@ -1,0 +1,9 @@
+cation_name,SMILES
+2-thiopheneethylammonium,[NH3+]CCc1cccs1
+4-chlorophenethylammonium,[NH3+]CCc1ccc(Cl)cc1
+morpholinium,C1COCC[NH2+]1
+2-thiophenemethylammonium,[NH3+]Cc1cccs1
+cyclohexylmethylammonium,[NH3+]CC1CCCCC1
+4-fluorophenethylammonium,[NH3+]CCc1ccc(F)cc1
+cyclohexylammonium,[NH3+]C1CCCCC1
+iso-pentylammonium (methylbutylammonium),CC(C)CC[NH3+]

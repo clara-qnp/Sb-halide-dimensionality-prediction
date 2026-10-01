@@ -1,0 +1,4 @@
+/output/
+/generated_coordinates/
+__pycache__/
+*.py[cod]

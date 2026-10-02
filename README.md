@@ -176,7 +176,9 @@ python -m llm_prediction.predict_new_compounds \
 The final experiment uses seven fixed feature categories, four LLMs, 30
 controlled presentation orders, and paired conditions with and without the 321
 training examples. The "with examples" condition below is also one of the two
-panels in [Figure 4](#figure-4-feature-importance-for-the-best-performing-ml-and-llm-configurations).
+panels in [Figure 4](#figure-4-feature-importance-for-the-best-performing-ml-and-llm-configurations);
+the "no examples" condition and the `compare` step feed
+[Figure 5](#figure-5-llm-feature-importance-without-training-examples-and-the-withwithout-data-difference).
 
 ```bash
 python -m unittest -v llm_feature_importance.tests
@@ -337,3 +339,39 @@ python figures/figure_4/make_figure_4.py
 
 The combined figure (`figure_4.png`/`.pdf`) is written to
 `figures/figure_4/output/`.
+
+### Figure 5: LLM feature importance without training examples, and the with/without-data difference
+
+Figure 5 contains:
+
+- **(a)** LLM-assessed feature importance without training examples, from the
+  "no examples" condition of the
+  [LLM feature importance](#llm-feature-importance) experiment above; and
+- **(b)** the change in feature importance between the with-data and
+  without-data settings, from that experiment's `compare` step.
+
+`figures/figure_5/figure_5_reference.png` shows the expected result.
+
+Panel (a) needs `llm_feature_importance.plot --out
+llm_feature_importance/results`, and panel (b) needs `llm_feature_importance.compare`
+(both from [LLM feature importance](#llm-feature-importance) above). Both
+read from CSVs — `model_feature_importance.csv`, `model_stability_kendall.csv`,
+`intermodel_kendall.csv`, `rankings_long.csv`, and `run_manifest.json` — committed
+as reference data in `llm_feature_importance/results/` (this figure's no-data
+condition) and `llm_feature_importance/results_with_data/` (already used by
+Figure 4), for the same reason as Figure 3 and 4's reference data: they come
+from live, costly LLM calls. Unlike collection, `compare` itself is a
+deterministic computation over those committed CSVs — no API calls — so it
+always reproduces exactly from them.
+
+Once both panels exist at their default paths
+(`llm_feature_importance/results/figures/figure1_feature_importance_heatmap.png`
+and `llm_feature_importance/comparison/comparison_delta_heatmap.png`), compose
+them into Figure 5:
+
+```bash
+python figures/figure_5/make_figure_5.py
+```
+
+The combined figure (`figure_5.png`/`.pdf`) is written to
+`figures/figure_5/output/`.

@@ -1,0 +1,372 @@
+{
+  "protocol_sha256": "26ce72381c8138a8939e200ae134967a0a633948d8ea4d98efc6da81c76e44ab",
+  "condition": "with_data",
+  "protocol": {
+    "protocol_version": "stage2-fixed-category-v2",
+    "features": [
+      {
+        "feature_id": "F1",
+        "feature_name": "Halide:Sb ratio",
+        "definition": "Stoichiometric ratio of inorganic halide atoms (F, Cl, Br, or I) to Sb atoms in the compound."
+      },
+      {
+        "feature_id": "F2",
+        "feature_name": "Sb oxidation state",
+        "definition": "Formal oxidation state of Sb, including Sb(III), Sb(V), or mixed-valence cases."
+      },
+      {
+        "feature_id": "F3",
+        "feature_name": "Halide composition",
+        "definition": "Identity and relative composition of the inorganic halides (F, Cl, Br, I), including single- and mixed-halide systems."
+      },
+      {
+        "feature_id": "F4",
+        "feature_name": "Organic cation molecular structure",
+        "definition": "Molecular identity, connectivity, scaffold, shape, rigidity, and related structural characteristics of the organic cation, excluding its overall size and formal charge."
+      },
+      {
+        "feature_id": "F5",
+        "feature_name": "Organic cation size / steric bulk",
+        "definition": "Overall molecular size and steric bulk of the organic cation, excluding its formal charge."
+      },
+      {
+        "feature_id": "F6",
+        "feature_name": "Organic cation charge / protonation state",
+        "definition": "Formal charge and protonation state of the organic cation."
+      },
+      {
+        "feature_id": "F7",
+        "feature_name": "Water content",
+        "definition": "Presence and stoichiometric amount of water associated with the compound."
+      }
+    ],
+    "presentation_orders": [
+      [
+        "F4",
+        "F6",
+        "F2",
+        "F3",
+        "F7",
+        "F1",
+        "F5"
+      ],
+      [
+        "F1",
+        "F5",
+        "F3",
+        "F2",
+        "F6",
+        "F7",
+        "F4"
+      ],
+      [
+        "F5",
+        "F4",
+        "F6",
+        "F7",
+        "F3",
+        "F2",
+        "F1"
+      ],
+      [
+        "F3",
+        "F4",
+        "F7",
+        "F2",
+        "F5",
+        "F1",
+        "F6"
+      ],
+      [
+        "F6",
+        "F3",
+        "F2",
+        "F7",
+        "F5",
+        "F1",
+        "F4"
+      ],
+      [
+        "F2",
+        "F3",
+        "F4",
+        "F6",
+        "F5",
+        "F7",
+        "F1"
+      ],
+      [
+        "F4",
+        "F3",
+        "F1",
+        "F5",
+        "F7",
+        "F6",
+        "F2"
+      ],
+      [
+        "F3",
+        "F2",
+        "F5",
+        "F6",
+        "F4",
+        "F7",
+        "F1"
+      ],
+      [
+        "F7",
+        "F1",
+        "F4",
+        "F3",
+        "F6",
+        "F5",
+        "F2"
+      ],
+      [
+        "F7",
+        "F3",
+        "F2",
+        "F6",
+        "F5",
+        "F1",
+        "F4"
+      ],
+      [
+        "F5",
+        "F6",
+        "F2",
+        "F4",
+        "F1",
+        "F3",
+        "F7"
+      ],
+      [
+        "F1",
+        "F2",
+        "F7",
+        "F5",
+        "F4",
+        "F3",
+        "F6"
+      ],
+      [
+        "F7",
+        "F4",
+        "F6",
+        "F1",
+        "F3",
+        "F2",
+        "F5"
+      ],
+      [
+        "F6",
+        "F4",
+        "F5",
+        "F2",
+        "F7",
+        "F3",
+        "F1"
+      ],
+      [
+        "F5",
+        "F2",
+        "F1",
+        "F7",
+        "F3",
+        "F4",
+        "F6"
+      ],
+      [
+        "F4",
+        "F2",
+        "F7",
+        "F1",
+        "F6",
+        "F5",
+        "F3"
+      ],
+      [
+        "F5",
+        "F2",
+        "F6",
+        "F4",
+        "F1",
+        "F3",
+        "F7"
+      ],
+      [
+        "F7",
+        "F5",
+        "F3",
+        "F1",
+        "F2",
+        "F6",
+        "F4"
+      ],
+      [
+        "F4",
+        "F5",
+        "F1",
+        "F7",
+        "F6",
+        "F2",
+        "F3"
+      ],
+      [
+        "F4",
+        "F7",
+        "F6",
+        "F2",
+        "F1",
+        "F5",
+        "F3"
+      ],
+      [
+        "F2",
+        "F3",
+        "F5",
+        "F1",
+        "F4",
+        "F7",
+        "F6"
+      ],
+      [
+        "F2",
+        "F6",
+        "F4",
+        "F3",
+        "F1",
+        "F7",
+        "F5"
+      ],
+      [
+        "F3",
+        "F1",
+        "F6",
+        "F4",
+        "F2",
+        "F5",
+        "F7"
+      ],
+      [
+        "F1",
+        "F6",
+        "F5",
+        "F7",
+        "F2",
+        "F4",
+        "F3"
+      ],
+      [
+        "F3",
+        "F7",
+        "F1",
+        "F6",
+        "F2",
+        "F4",
+        "F5"
+      ],
+      [
+        "F5",
+        "F1",
+        "F4",
+        "F2",
+        "F3",
+        "F6",
+        "F7"
+      ],
+      [
+        "F2",
+        "F7",
+        "F3",
+        "F4",
+        "F6",
+        "F1",
+        "F5"
+      ],
+      [
+        "F6",
+        "F5",
+        "F1",
+        "F3",
+        "F7",
+        "F4",
+        "F2"
+      ],
+      [
+        "F6",
+        "F1",
+        "F7",
+        "F5",
+        "F3",
+        "F2",
+        "F4"
+      ],
+      [
+        "F1",
+        "F7",
+        "F3",
+        "F5",
+        "F4",
+        "F6",
+        "F2"
+      ]
+    ],
+    "models": [
+      {
+        "model_id": "gpt-5.1-2025-11-13",
+        "model": "GPT-5.1"
+      },
+      {
+        "model_id": "gpt-5.5-2026-04-23",
+        "model": "GPT-5.5"
+      },
+      {
+        "model_id": "gpt-5.6-sol",
+        "model": "GPT-5.6 Sol"
+      },
+      {
+        "model_id": "gpt-6-astra",
+        "model": "GPT-6 Astra"
+      }
+    ],
+    "inference_settings": {
+      "reasoning_effort": "medium",
+      "max_completion_tokens": 8192,
+      "response_format": {
+        "type": "json_object"
+      }
+    },
+    "prompt_prefix": "You are evaluating the importance of chemical and compositional features for predicting the structural dimensionality of Sb-halide compounds.\n\nBelow are seven predefined features. Rank all seven features according to their expected importance for predicting structural dimensionality, where rank 1 is the most important and rank 7 is the least important.\n\nUse the definitions exactly as provided. Treat each feature as a separate factor. Do not combine features, introduce new features, modify the feature definitions, or omit any feature.\n\n",
+    "prompt_suffix": "\n\nReturn all seven feature IDs ordered from most important to least important. Each feature ID must appear exactly once.\n\nReturn JSON only, using exactly this object shape:\n{\"ranking\":[\"<rank-1 feature ID>\",\"<rank-2 feature ID>\",\"<rank-3 feature ID>\",\"<rank-4 feature ID>\",\"<rank-5 feature ID>\",\"<rank-6 feature ID>\",\"<rank-7 feature ID>\"]}",
+    "condition": "with_data",
+    "dataset_metadata": {
+      "dataset_n_examples": 321,
+      "dataset_source": "data/prepared_data.xlsx",
+      "dataset_source_sha256": "e21ea28f5e2847575d7adb7bfa3b1a1a88f43f37810cd1fa63dbe214e10e7a48",
+      "dataset_ordering_seed": 42,
+      "contexts_by_model": {
+        "gpt-5.1-2025-11-13": {
+          "representation": "name",
+          "dataset_sha256": "82c5f89705ad6918bd67e89b6e816fb4da59862abb869a7f19d785d6364fad05"
+        },
+        "gpt-5.5-2026-04-23": {
+          "representation": "smiles",
+          "dataset_sha256": "743891999057f02ee722bda1547399aacf08917dd5b95a58f269da995153126d"
+        },
+        "gpt-5.6-sol": {
+          "representation": "smiles",
+          "dataset_sha256": "743891999057f02ee722bda1547399aacf08917dd5b95a58f269da995153126d"
+        },
+        "gpt-6-astra": {
+          "representation": "name",
+          "dataset_sha256": "82c5f89705ad6918bd67e89b6e816fb4da59862abb869a7f19d785d6364fad05"
+        }
+      }
+    },
+    "with_data_prefix": "You are evaluating the importance of chemical and compositional features for predicting the structural dimensionality of Sb-halide compounds.\n\nBelow are 321 labeled Sb-halide examples. The dimensionality label is encoded as 0 = 0D and 1 = non-0D (including 1D, 2D, and 3D). Use these examples to learn the relationships between the provided chemical/compositional information and structural dimensionality. Based on the patterns you infer from these examples, rank the seven predefined features according to their importance for dimensionality prediction.\n\n",
+    "with_data_after_examples": "\n\nBelow are the seven predefined features and their definitions. Rank 1 is the most important and rank 7 is the least important.\n\nUse the definitions exactly as provided. Treat each feature as a separate factor. Do not combine features, introduce new features, modify the feature definitions, or omit any feature.\n\n"
+  },
+  "expected_valid_rankings": 120,
+  "expected_rankings_per_model": 30
+}

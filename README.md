@@ -37,6 +37,7 @@ model evaluation and prediction:
 - `evaluation/`: ML/LLM comparisons and confusion-matrix plots.
 - `common/`: shared plotting utilities.
 - `results_ml/`: generated ML metrics, predictions, and fitted models.
+- `results_llm/`: LLM evaluation results behind Figure 3.
 - `figures/`: publication-figure scripts, generated publication figures, and diagnostic figures.
 
 ## Installation

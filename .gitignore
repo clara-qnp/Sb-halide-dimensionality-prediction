@@ -72,5 +72,6 @@ raw_llm_responses.jsonl
 
 # OS/editor files
 .DS_Store
+.Rhistory
 .idea/
 .vscode/

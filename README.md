@@ -127,6 +127,10 @@ paths are defined in `config/pipeline.yaml`.
 
 ## ML workflow
 
+The train/test split groups compounds by both source paper and organic cation, so no paper and no
+cation structure appears in both sets. A few chemical compositions do occur in both sets, but they
+correspond to different organic cation structures, so they are distinct compounds rather than duplicates.
+
 ```bash
 python -m ml_training.prepare_data \
   --input data/merged_compound_cif_cation.xlsx \

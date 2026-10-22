@@ -19,6 +19,7 @@ data/
 data/*
 !data/merged_compound_cif_cation.xlsx
 !data/prepared_data.xlsx
+!data/new_mixed_halide_sb_compounds.xlsx
 
 # Generated results
 results_ml/

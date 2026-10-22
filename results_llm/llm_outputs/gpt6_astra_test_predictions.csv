@@ -1,0 +1,475 @@
+compound_id,model_requested,model_resolved,representation,prompting,reasoning_effort,true,prediction,visible_answer,has_token_probabilities,probability_method,raw_probability_token_0,raw_probability_token_1,probability_0D_conditional_01,probability_non0D_conditional_01,captured_probability_mass_01,logprob_0,logprob_1,usage
+P0001_C4,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0001_C5,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0005_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0009_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0009_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0012_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0029_C3,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C3,gpt-6-astra,gpt-6-astra,name,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0031_C4,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C5,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0034_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0045_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0045_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0053_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0064_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0074_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0081_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0085_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0103_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0110_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0110_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0117_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0146_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0160_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0160_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0162_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0162_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0170_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0170_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0170_C3,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0171_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0171_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0177_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0178_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0189_C1a,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0189_C1b,gpt-6-astra,gpt-6-astra,name,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0189_C3,gpt-6-astra,gpt-6-astra,name,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0192_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0201_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0209_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0210_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0210_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0212_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0218_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0219_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0251_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0251_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0263_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0263_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0269_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C3,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C4,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0271_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0287_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C3,gpt-6-astra,gpt-6-astra,name,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0295_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0296_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0296_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0296_C3,gpt-6-astra,gpt-6-astra,name,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0300_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0305_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0308_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0311_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0312_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0313_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0317_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0329_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0329_C2,gpt-6-astra,gpt-6-astra,name,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0330_C1,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0351_C1_cif,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0353_C1_cif,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0357_C1_cif,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0359_C1_cif,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0374_C1_cif,gpt-6-astra,gpt-6-astra,name,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0001_C4,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0001_C5,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0005_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0009_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0009_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0012_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0029_C3,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C3,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0031_C4,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C5,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0034_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0045_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0045_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0053_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0064_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0074_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0081_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0085_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0103_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0110_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0110_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0117_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0146_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0160_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0160_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0162_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0162_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0170_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0170_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0170_C3,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0171_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0171_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0177_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0178_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0189_C1a,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0189_C1b,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0189_C3,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0192_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0201_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0209_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0210_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0210_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0212_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0218_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0219_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0251_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0251_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0263_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0263_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0269_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C3,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C4,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0271_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0287_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C3,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0295_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0296_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0296_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0296_C3,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0300_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0305_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0308_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0311_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0312_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,0,0,False,not_available,,,,,,,,
+P0313_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0317_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0329_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,1,1,False,not_available,,,,,,,,
+P0329_C2,gpt-6-astra,gpt-6-astra,smiles,zero,medium,1,1,1,False,not_available,,,,,,,,
+P0330_C1,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0351_C1_cif,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0353_C1_cif,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0357_C1_cif,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0359_C1_cif,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0374_C1_cif,gpt-6-astra,gpt-6-astra,smiles,zero,medium,0,0,0,False,not_available,,,,,,,,
+P0001_C4,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0001_C5,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0005_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0009_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0009_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0012_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0029_C3,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C3,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0031_C4,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C5,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0034_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0045_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0045_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0053_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0064_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0074_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0081_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0085_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0103_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0110_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0110_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0117_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0146_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0160_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0160_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0162_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0162_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0170_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0170_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0170_C3,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0171_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0171_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0177_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0178_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0189_C1a,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0189_C1b,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0189_C3,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0192_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0201_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0209_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0210_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0210_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0212_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0218_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0219_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0251_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0251_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0263_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0263_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0269_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C3,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C4,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0271_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0287_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C3,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0295_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0296_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0296_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0296_C3,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0300_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0305_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0308_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0311_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0312_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0313_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0317_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0329_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0329_C2,gpt-6-astra,gpt-6-astra,name,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0330_C1,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0351_C1_cif,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0353_C1_cif,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0357_C1_cif,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0359_C1_cif,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0374_C1_cif,gpt-6-astra,gpt-6-astra,name,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0001_C4,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0001_C5,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0005_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0009_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0009_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0012_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0029_C3,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C3,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0031_C4,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0031_C5,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0034_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0045_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0045_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0053_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0064_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0074_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0081_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0085_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0103_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0110_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0110_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0117_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0146_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0160_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0160_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0162_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0162_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0170_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0170_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0170_C3,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0171_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0171_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0177_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0178_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0189_C1a,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0189_C1b,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0189_C3,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0192_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0201_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0209_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0210_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0210_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0212_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0218_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0219_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0251_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0251_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0263_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0263_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0269_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C3,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0269_C4,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0271_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0287_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C3,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0295_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0296_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0296_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0296_C3,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0300_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0305_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0308_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0311_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0312_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,0,0,False,not_available,,,,,,,,
+P0313_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0317_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0329_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,1,1,False,not_available,,,,,,,,
+P0329_C2,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,1,1,1,False,not_available,,,,,,,,
+P0330_C1,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0351_C1_cif,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0353_C1_cif,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0357_C1_cif,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0359_C1_cif,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0374_C1_cif,gpt-6-astra,gpt-6-astra,smiles,12shot,medium,0,0,0,False,not_available,,,,,,,,
+P0001_C4,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34580, ""total_tokens"": 34584, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0001_C5,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34580, ""total_tokens"": 34584, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0005_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 52, ""prompt_tokens"": 34558, ""total_tokens"": 34610, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 42, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0009_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 77, ""prompt_tokens"": 34559, ""total_tokens"": 34636, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 67, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0009_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 65, ""prompt_tokens"": 34559, ""total_tokens"": 34624, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 55, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0012_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 36, ""prompt_tokens"": 34560, ""total_tokens"": 34596, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 26, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0029_C3,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 20, ""prompt_tokens"": 34562, ""total_tokens"": 34582, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 10, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0031_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 43, ""prompt_tokens"": 34557, ""total_tokens"": 34600, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 33, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0031_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 52, ""prompt_tokens"": 34555, ""total_tokens"": 34607, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 42, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0031_C3,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 39, ""prompt_tokens"": 34554, ""total_tokens"": 34593, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 29, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0031_C4,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 76, ""prompt_tokens"": 34561, ""total_tokens"": 34637, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 66, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0031_C5,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 265, ""prompt_tokens"": 34559, ""total_tokens"": 34824, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 255, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0034_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 119, ""prompt_tokens"": 34564, ""total_tokens"": 34683, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 109, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0045_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 51, ""prompt_tokens"": 34549, ""total_tokens"": 34600, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 41, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0045_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 79, ""prompt_tokens"": 34549, ""total_tokens"": 34628, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 69, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0053_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34556, ""total_tokens"": 34560, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0064_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34553, ""total_tokens"": 34557, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0074_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 38, ""prompt_tokens"": 34563, ""total_tokens"": 34601, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 28, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0081_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 27, ""prompt_tokens"": 34553, ""total_tokens"": 34580, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 17, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0085_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34563, ""total_tokens"": 34567, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0103_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 51, ""prompt_tokens"": 34557, ""total_tokens"": 34608, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 41, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0110_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34556, ""total_tokens"": 34560, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0110_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 54, ""prompt_tokens"": 34560, ""total_tokens"": 34614, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 44, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0117_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 68, ""prompt_tokens"": 34550, ""total_tokens"": 34618, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 58, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0146_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 24, ""prompt_tokens"": 34550, ""total_tokens"": 34574, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 14, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0160_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34554, ""total_tokens"": 34558, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0160_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34553, ""total_tokens"": 34557, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0162_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 60, ""prompt_tokens"": 34550, ""total_tokens"": 34610, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 50, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0162_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 82, ""prompt_tokens"": 34550, ""total_tokens"": 34632, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 72, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0170_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 142, ""prompt_tokens"": 34555, ""total_tokens"": 34697, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 132, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0170_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 74, ""prompt_tokens"": 34557, ""total_tokens"": 34631, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 64, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0170_C3,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 145, ""prompt_tokens"": 34558, ""total_tokens"": 34703, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 135, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0171_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 102, ""prompt_tokens"": 34552, ""total_tokens"": 34654, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 92, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0171_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 54, ""prompt_tokens"": 34552, ""total_tokens"": 34606, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 44, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0177_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 40, ""prompt_tokens"": 34565, ""total_tokens"": 34605, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 30, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0178_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 104, ""prompt_tokens"": 34557, ""total_tokens"": 34661, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 94, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0189_C1a,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 102, ""prompt_tokens"": 34565, ""total_tokens"": 34667, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 92, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0189_C1b,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 233, ""prompt_tokens"": 34558, ""total_tokens"": 34791, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 223, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0189_C3,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 278, ""prompt_tokens"": 34568, ""total_tokens"": 34846, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 268, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0192_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 54, ""prompt_tokens"": 34555, ""total_tokens"": 34609, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 44, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0201_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34552, ""total_tokens"": 34556, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0209_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 48, ""prompt_tokens"": 34560, ""total_tokens"": 34608, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 38, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0210_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 108, ""prompt_tokens"": 34573, ""total_tokens"": 34681, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 98, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0210_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 20, ""prompt_tokens"": 34572, ""total_tokens"": 34592, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 10, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0212_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 106, ""prompt_tokens"": 34563, ""total_tokens"": 34669, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 96, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0218_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 57, ""prompt_tokens"": 34560, ""total_tokens"": 34617, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 47, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0219_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 37, ""prompt_tokens"": 34554, ""total_tokens"": 34591, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 27, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0251_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 63, ""prompt_tokens"": 34563, ""total_tokens"": 34626, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 53, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0251_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 182, ""prompt_tokens"": 34562, ""total_tokens"": 34744, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 172, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0263_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 42, ""prompt_tokens"": 34562, ""total_tokens"": 34604, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 32, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0263_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 51, ""prompt_tokens"": 34562, ""total_tokens"": 34613, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 41, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0269_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34554, ""total_tokens"": 34558, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0269_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 20, ""prompt_tokens"": 34553, ""total_tokens"": 34573, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 10, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0269_C3,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34552, ""total_tokens"": 34556, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0269_C4,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34554, ""total_tokens"": 34558, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0271_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 37, ""prompt_tokens"": 34597, ""total_tokens"": 34634, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 27, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0287_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 42, ""prompt_tokens"": 34551, ""total_tokens"": 34593, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 32, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0294_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 56, ""prompt_tokens"": 34555, ""total_tokens"": 34611, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 46, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0294_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 29, ""prompt_tokens"": 34555, ""total_tokens"": 34584, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 19, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0294_C3,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 56, ""prompt_tokens"": 34566, ""total_tokens"": 34622, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 46, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0295_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 93, ""prompt_tokens"": 34574, ""total_tokens"": 34667, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 83, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0296_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 97, ""prompt_tokens"": 34553, ""total_tokens"": 34650, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 87, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0296_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 25, ""prompt_tokens"": 34570, ""total_tokens"": 34595, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 15, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0296_C3,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 301, ""prompt_tokens"": 34573, ""total_tokens"": 34874, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 291, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0300_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 39, ""prompt_tokens"": 34556, ""total_tokens"": 34595, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 29, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0305_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 111, ""prompt_tokens"": 34556, ""total_tokens"": 34667, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 101, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0308_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 52, ""prompt_tokens"": 34556, ""total_tokens"": 34608, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 42, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0311_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 47, ""prompt_tokens"": 34563, ""total_tokens"": 34610, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 37, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0312_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 65, ""prompt_tokens"": 34557, ""total_tokens"": 34622, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 55, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0313_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 71, ""prompt_tokens"": 34559, ""total_tokens"": 34630, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 61, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0317_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 296, ""prompt_tokens"": 34564, ""total_tokens"": 34860, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 286, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0329_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 113, ""prompt_tokens"": 34565, ""total_tokens"": 34678, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 103, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0329_C2,gpt-6-astra,gpt-6-astra,name,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 85, ""prompt_tokens"": 34565, ""total_tokens"": 34650, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 75, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0330_C1,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 52, ""prompt_tokens"": 34558, ""total_tokens"": 34610, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 42, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0351_C1_cif,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34577, ""total_tokens"": 34581, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0353_C1_cif,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34554, ""total_tokens"": 34558, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0357_C1_cif,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34604, ""total_tokens"": 34608, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0359_C1_cif,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34582, ""total_tokens"": 34586, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0374_C1_cif,gpt-6-astra,gpt-6-astra,name,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34564, ""total_tokens"": 34568, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34447}}"
+P0001_C4,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34298, ""total_tokens"": 34302, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0001_C5,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34298, ""total_tokens"": 34302, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0005_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 34, ""prompt_tokens"": 34269, ""total_tokens"": 34303, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 24, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0009_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 85, ""prompt_tokens"": 34272, ""total_tokens"": 34357, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 75, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0009_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 90, ""prompt_tokens"": 34272, ""total_tokens"": 34362, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 80, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0012_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 46, ""prompt_tokens"": 34272, ""total_tokens"": 34318, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 36, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0029_C3,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 52, ""prompt_tokens"": 34282, ""total_tokens"": 34334, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 42, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0031_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 50, ""prompt_tokens"": 34277, ""total_tokens"": 34327, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 40, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0031_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 43, ""prompt_tokens"": 34275, ""total_tokens"": 34318, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 33, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0031_C3,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 49, ""prompt_tokens"": 34270, ""total_tokens"": 34319, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 39, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0031_C4,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 45, ""prompt_tokens"": 34276, ""total_tokens"": 34321, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 35, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0031_C5,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 203, ""prompt_tokens"": 34274, ""total_tokens"": 34477, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 193, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0034_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 86, ""prompt_tokens"": 34277, ""total_tokens"": 34363, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 76, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0045_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 45, ""prompt_tokens"": 34268, ""total_tokens"": 34313, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 35, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0045_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 69, ""prompt_tokens"": 34268, ""total_tokens"": 34337, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 59, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0053_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34265, ""total_tokens"": 34269, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0064_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34270, ""total_tokens"": 34274, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0074_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 38, ""prompt_tokens"": 34279, ""total_tokens"": 34317, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 28, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0081_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 29, ""prompt_tokens"": 34266, ""total_tokens"": 34295, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 19, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0085_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 31, ""prompt_tokens"": 34279, ""total_tokens"": 34310, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 21, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0103_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 50, ""prompt_tokens"": 34270, ""total_tokens"": 34320, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 40, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0110_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34269, ""total_tokens"": 34273, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0110_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 37, ""prompt_tokens"": 34273, ""total_tokens"": 34310, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 27, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0117_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 61, ""prompt_tokens"": 34269, ""total_tokens"": 34330, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 51, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0146_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34269, ""total_tokens"": 34273, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0160_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34269, ""total_tokens"": 34273, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0160_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34268, ""total_tokens"": 34272, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0162_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 68, ""prompt_tokens"": 34269, ""total_tokens"": 34337, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 58, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0162_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 95, ""prompt_tokens"": 34269, ""total_tokens"": 34364, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 85, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0170_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 189, ""prompt_tokens"": 34284, ""total_tokens"": 34473, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 179, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0170_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 83, ""prompt_tokens"": 34286, ""total_tokens"": 34369, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 73, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0170_C3,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 209, ""prompt_tokens"": 34287, ""total_tokens"": 34496, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 199, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0171_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 102, ""prompt_tokens"": 34270, ""total_tokens"": 34372, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 92, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0171_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 48, ""prompt_tokens"": 34270, ""total_tokens"": 34318, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 38, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0177_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 45, ""prompt_tokens"": 34278, ""total_tokens"": 34323, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 35, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0178_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 75, ""prompt_tokens"": 34271, ""total_tokens"": 34346, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 65, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0189_C1a,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 132, ""prompt_tokens"": 34278, ""total_tokens"": 34410, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 122, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0189_C1b,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 192, ""prompt_tokens"": 34282, ""total_tokens"": 34474, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 182, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0189_C3,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 198, ""prompt_tokens"": 34277, ""total_tokens"": 34475, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 188, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0192_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 80, ""prompt_tokens"": 34274, ""total_tokens"": 34354, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 70, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0201_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34268, ""total_tokens"": 34272, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0209_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 71, ""prompt_tokens"": 34275, ""total_tokens"": 34346, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 61, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0210_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 100, ""prompt_tokens"": 34283, ""total_tokens"": 34383, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 90, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0210_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 51, ""prompt_tokens"": 34282, ""total_tokens"": 34333, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 41, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0212_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 77, ""prompt_tokens"": 34274, ""total_tokens"": 34351, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 67, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0218_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 62, ""prompt_tokens"": 34271, ""total_tokens"": 34333, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 52, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0219_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 27, ""prompt_tokens"": 34266, ""total_tokens"": 34293, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 17, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0251_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 57, ""prompt_tokens"": 34270, ""total_tokens"": 34327, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 47, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0251_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 190, ""prompt_tokens"": 34278, ""total_tokens"": 34468, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 180, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0263_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 43, ""prompt_tokens"": 34271, ""total_tokens"": 34314, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 33, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0263_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 57, ""prompt_tokens"": 34271, ""total_tokens"": 34328, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 47, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0269_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34268, ""total_tokens"": 34272, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0269_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34267, ""total_tokens"": 34271, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0269_C3,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 4, ""prompt_tokens"": 34268, ""total_tokens"": 34272, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 0, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0269_C4,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 18, ""prompt_tokens"": 34266, ""total_tokens"": 34284, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 8, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0271_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 50, ""prompt_tokens"": 34299, ""total_tokens"": 34349, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 40, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0287_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 74, ""prompt_tokens"": 34267, ""total_tokens"": 34341, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 64, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0294_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 64, ""prompt_tokens"": 34271, ""total_tokens"": 34335, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 54, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0294_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,
+P0294_C3,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 54, ""prompt_tokens"": 34276, ""total_tokens"": 34330, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 44, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0295_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 162, ""prompt_tokens"": 34273, ""total_tokens"": 34435, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 152, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0296_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,1,1,False,not_available,,,,,,,,
+P0296_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,
+P0296_C3,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 115, ""prompt_tokens"": 34283, ""total_tokens"": 34398, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 105, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0300_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 34, ""prompt_tokens"": 34270, ""total_tokens"": 34304, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 24, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0305_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,
+P0308_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 37, ""prompt_tokens"": 34270, ""total_tokens"": 34307, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 27, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0311_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 30, ""prompt_tokens"": 34271, ""total_tokens"": 34301, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 20, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0312_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,0,0,False,not_available,,,,,,,,"{""completion_tokens"": 69, ""prompt_tokens"": 34271, ""total_tokens"": 34340, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 59, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0313_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 59, ""prompt_tokens"": 34274, ""total_tokens"": 34333, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 49, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 0}}"
+P0317_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 208, ""prompt_tokens"": 34280, ""total_tokens"": 34488, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 198, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0329_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,1,1,False,not_available,,,,,,,,"{""completion_tokens"": 213, ""prompt_tokens"": 34277, ""total_tokens"": 34490, ""completion_tokens_details"": {""accepted_prediction_tokens"": 0, ""audio_tokens"": 0, ""reasoning_tokens"": 203, ""rejected_prediction_tokens"": 0}, ""prompt_tokens_details"": {""audio_tokens"": 0, ""cached_tokens"": 34162}}"
+P0329_C2,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,1,1,1,False,not_available,,,,,,,,
+P0330_C1,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,
+P0351_C1_cif,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,
+P0353_C1_cif,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,
+P0357_C1_cif,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,
+P0359_C1_cif,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,
+P0374_C1_cif,gpt-6-astra,gpt-6-astra,smiles,allshot,medium,0,0,0,False,not_available,,,,,,,,

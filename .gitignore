@@ -23,11 +23,12 @@ data/*
 # Generated results
 results_ml/
 results_llm/
-# Publish the reference LLM results Figure 3 is built from; everything else
-# generated under results_llm/ (raw per-call predictions, checkpoints) stays ignored.
+# Publish the reference LLM results Figure 3 is built from, plus the per-call test predictions and
+# run logs behind them (llm_outputs/); everything else generated under results_llm/ stays ignored.
 !results_llm/
 results_llm/*
 !results_llm/llm_results.csv
+!results_llm/llm_outputs/
 results/
 results_with_data/
 # Publish the reference LLM feature-importance results Figures 4/5 are built from;
